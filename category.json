@@ -1,0 +1,329 @@
+{
+  "name": "Kategoriler",
+  "path": "category",
+  "icon": "article",
+  "active": true,
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "70q326"
+    ],
+    "footer": []
+  },
+  "data": [
+    {
+      "name": {
+        "tr": "VIP Makam Masa Takımları",
+        "en": "VIP Executive Desk Sets",
+        "ar": "مجموعات مكاتب VIP التنفيذية"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c01vip",
+      "path": "vip-makam-masa-takimlari",
+      "description": {
+        "tr": "En Ofis Mobilyaları VIP Makam Masa Takımları. 32 ürün — makam odaları için prestijli masa takımları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları VIP Executive Desk Sets. 32 products — prestigious desk sets for executive offices. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — مجموعات مكاتب VIP التنفيذية. 32 منتج — طقم مكاتب فاخر للمكاتب التنفيذية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 0,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Çalışma ve Yönetici Masa Takımları",
+        "en": "Executive & Work Desk Sets",
+        "ar": "مجموعات مكاتب العمل والإدارة"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c02calisma",
+      "path": "calisma-ve-yonetici-masa-takimlari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Çalışma ve Yönetici Masa Takımları. 39 ürün — ofis ve yönetici çalışma masaları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Executive & Work Desk Sets. 39 products — office and executive work desks. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — مجموعات مكاتب العمل والإدارة. 39 منتج — مكاتب عمل وإدارية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 1,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Toplantı Masaları",
+        "en": "Meeting Tables",
+        "ar": "طاولات الاجتماعات"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c03toplanti",
+      "path": "toplanti-masalari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Toplantı Masaları. 15 ürün — toplantı ve konferans masaları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Meeting Tables. 15 products — meeting and conference tables. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — طاولات الاجتماعات. 15 منتج — طاولات اجتماعات ومؤتمرات. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 2,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Karşılama Banko ve Workstation",
+        "en": "Reception Counters & Workstations",
+        "ar": "كونترات الاستقبال ومحطات العمل"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c04banko",
+      "path": "karsilama-banko-ve-workstation",
+      "description": {
+        "tr": "En Ofis Mobilyaları Karşılama Banko ve Workstation. 13 ürün — resepsiyon bankoları ve workstation çözümleri. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Reception Counters & Workstations. 13 products — reception counters and workstation solutions. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — كونترات الاستقبال ومحطات العمل. 13 منتج — حلول استقبال ومحطات عمل. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 3,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Evrak ve Soyunma Dolapları",
+        "en": "Filing & Locker Cabinets",
+        "ar": "خزائن الملفات والملابس"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c05evrak",
+      "path": "evrak-ve-soyunma-dolaplari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Evrak ve Soyunma Dolapları. 14 ürün — evrak ve soyunma dolabı sistemleri. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Filing & Locker Cabinets. 14 products — filing and locker cabinet systems. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — خزائن الملفات والملابس. 14 منتج — أنظمة خزائن الملفات والملابس. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 4,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Metal Dosya ve Soyunma Dolapları",
+        "en": "Metal Filing & Locker Cabinets",
+        "ar": "خزائن معدنية للملفات والملابس"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c06metal",
+      "path": "metal-dosya-ve-soyunma-dolaplari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Metal Dosya ve Soyunma Dolapları. 1 ürün — metal dosya ve soyunma dolapları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Metal Filing & Locker Cabinets. 1 products — metal filing and locker cabinets. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — خزائن معدنية للملفات والملابس. منتج واحد — خزائن معدنية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 5,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Yurt Pansiyon Mobilyaları",
+        "en": "Dormitory & Boarding Furniture",
+        "ar": "أثاث السكن الجامعي والداخلي"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c07yurt",
+      "path": "yurt-pansiyon-mobilyalari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Yurt Pansiyon Mobilyaları. Yurt ve pansiyonlar için dayanıklı mobilya çözümleri. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Dormitory & Boarding Furniture. Durable furniture solutions for dorms and boarding schools. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — أثاث السكن الجامعي والداخلي. حلول أثاث متينة للسكن الجامعي والداخلي. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 6,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Eğitim Donanımları",
+        "en": "Educational Equipment",
+        "ar": "تجهيزات تعليمية"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c08egitim",
+      "path": "egitim-donanimlari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Eğitim Donanımları. Okul ve eğitim kurumları için sıra, masa ve donanım. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Educational Equipment. Desks, chairs and equipment for schools and educational institutions. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — تجهيزات تعليمية. مقاعد وطاولات وتجهيزات للمدارس والمؤسسات التعليمية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 7,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Makam Koltukları",
+        "en": "Executive Chairs",
+        "ar": "كراسي المكاتب التنفيذية"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c09makam",
+      "path": "makam-koltuklari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Makam Koltukları. Makam odaları için ergonomik ve şık koltuklar. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Executive Chairs. Ergonomic and elegant chairs for executive offices. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — كراسي المكاتب التنفيذية. كراسي مريحة وأنيقة للمكاتب التنفيذية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 8,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Yönetici ve Çalışma Koltukları",
+        "en": "Executive & Task Chairs",
+        "ar": "كراسي الإدارة والعمل"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c10yonetici",
+      "path": "yonetici-ve-calisma-koltuklari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Yönetici ve Çalışma Koltukları. Ofis çalışanları ve yöneticiler için koltuk serileri. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Executive & Task Chairs. Chair series for office staff and managers. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — كراسي الإدارة والعمل. سلاسل كراسي لموظفي المكاتب والمديرين. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 9,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Bekleme ve Misafir Koltukları",
+        "en": "Waiting & Guest Chairs",
+        "ar": "كراسي الانتظار والضيوف"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c11bekleme",
+      "path": "bekleme-ve-misafir-koltuklari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Bekleme ve Misafir Koltukları. Bekleme alanları ve misafir koltukları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Waiting & Guest Chairs. Waiting areas and guest seating. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — كراسي الانتظار والضيوف. كراسي مناطق الانتظار والضيوف. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 10,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Oturma Grupları ve Kanepeler",
+        "en": "Seating Groups & Sofas",
+        "ar": "مجموعات الجلوس والأرائك"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c12oturma",
+      "path": "oturma-gruplari-ve-kanepeler",
+      "description": {
+        "tr": "En Ofis Mobilyaları Oturma Grupları ve Kanepeler. Oturma grupları, kanepeler ve lounge mobilyaları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Seating Groups & Sofas. Seating groups, sofas and lounge furniture. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — مجموعات الجلوس والأرائك. مجموعات جلوس وأرائك وأثاث صالات. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 11,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Konferans Koltukları",
+        "en": "Conference Chairs",
+        "ar": "كراسي المؤتمرات"
+      },
+      "status": "play",
+      "category": "",
+      "id": "c13konferans",
+      "path": "konferans-koltuklari",
+      "description": {
+        "tr": "En Ofis Mobilyaları Konferans Koltukları. Konferans salonları ve toplantı odaları için koltuklar. Gaziantep üretim; kamu ve özel sektör tedarik.",
+        "en": "En Ofis Mobilyaları Conference Chairs. Chairs for conference halls and meeting rooms. Manufactured in Gaziantep; supply for public and private sector.",
+        "ar": "أن أوفيس — كراسي المؤتمرات. كراسي قاعات المؤتمرات وغرف الاجتماعات. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+      },
+      "index": 12,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    }
+  ]
+}

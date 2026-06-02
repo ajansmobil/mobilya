@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Karşılama Banko ve Workstation",
+    "en": "Reception Counters & Workstations",
+    "ar": "كونترات الاستقبال ومحطات العمل"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c04banko",
+  "externalUrl": "",
+  "path": "karsilama-banko-ve-workstation",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Karşılama Banko ve Workstation, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Reception Counters & Workstations, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, كونترات الاستقبال ومحطات العمل, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Karşılama Banko ve Workstation. 13 ürün — resepsiyon bankoları ve workstation çözümleri. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Reception Counters & Workstations. 13 products — reception counters and workstation solutions. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — كونترات الاستقبال ومحطات العمل. 13 منتج — حلول استقبال ومحطات عمل. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 3,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Karşılama Banko ve Workstation | En Ofis Mobilyaları",
+    "en": "Reception Counters & Workstations | En Ofis Mobilyaları",
+    "ar": "كونترات الاستقبال ومحطات العمل | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Karşılama Banko ve Workstation</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Karşılama Banko ve Workstation. 13 ürün — resepsiyon bankoları ve workstation çözümleri. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Reception Counters & Workstations</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Reception Counters & Workstations. 13 products — reception counters and workstation solutions. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">كونترات الاستقبال ومحطات العمل</h2><p style=\"font-size: 16px;\">أن أوفيس — كونترات الاستقبال ومحطات العمل. 13 منتج — حلول استقبال ومحطات عمل. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.317Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Resepsiyon Banko ve Workstation",
+    "en": "Resepsiyon Banko ve Workstation",
+    "ar": "كونتر استقبال ومحطة عمل"
+  },
+  "status": "play",
+  "category": "prj8mob01",
+  "id": "f80a8cd260",
+  "path": "resepsiyon-workstation-alani",
+  "description": {
+    "tr": "En Ofis Mobilyaları Resepsiyon Banko ve Workstation referans uygulaması (Kurumsal). Gaziantep üretim, montaj dahil.",
+    "en": "En Ofis Mobilyaları Resepsiyon Banko ve Workstation reference project (Corporate). Manufactured in Gaziantep, installation included.",
+    "ar": "أن أوفيس — كونتر استقبال ومحطة عمل. مشروع مرجعي (شركة). إنتاج غازي عنتاب، التركيب مشمول."
+  },
+  "index": 5,
+  "icon": "architecture",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {
+    "sektor": "Kurumsal"
+  },
+  "title": {
+    "tr": "Resepsiyon Banko ve Workstation | En Ofis Mobilyaları",
+    "en": "Resepsiyon Banko ve Workstation | En Ofis Mobilyaları",
+    "ar": "كونتر استقبال ومحطة عمل | أن أوفيس للأثاث المكتبي"
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, proje, referans, Resepsiyon Banko ve Workstation, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, proje, referans, Resepsiyon Banko ve Workstation, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, مشروع، مرجع, كونتر استقبال ومحطة عمل, أثاث مكتبي غازي عنتاب"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 22px;\">Resepsiyon Banko ve Workstation</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Kurumsal</p>\n<p style=\"font-size: 16px;\">Karşılama bankosu, bekleme koltukları ve açık plan workstation alanı tek projede. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/tr/iletisim/\">iletişim</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "en": "<h2 style=\"font-size: 22px;\">Resepsiyon Banko ve Workstation</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Corporate</p>\n<p style=\"font-size: 16px;\">Karşılama bankosu, bekleme koltukları ve açık plan workstation alanı tek projede. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/en/contact/\">contact</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "ar": "<h2 style=\"font-size: 22px;\">كونتر استقبال ومحطة عمل</h2>\n<p style=\"font-size: 16px;\"><strong>القطاع:</strong> شركة</p>\n<p style=\"font-size: 16px;\">كونتر استقبال، كراسي انتظار ومنطقة محطة عمل مفتوحة في مشروع واحد. تصنيع وتركيب من أن أوفيس للأثاث المكتبي.</p>\n<p style=\"font-size: 15px;\">للمشاريع المماثلة اطلب عرضا عبر صفحة <a href=\"/ar/contact/\">اتصل بنا</a>.</p>"
+  },
+  "update": "2026-06-02T03:50:52.459Z",
+  "date": "2026-06-02",
+  "img": "index.webp"
+}

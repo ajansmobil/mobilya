@@ -1,0 +1,129 @@
+{
+  "name": "Sayfalar",
+  "path": "page",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "الشركة"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yvi9dlb59o",
+      "url": "",
+      "path": "kurumsal",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": "En Ofis Mobilyaları kurumsal bilgiler: hakkımızda, misyonumuz ve vizyonumuz. Gaziantep merkezli ofis mobilyası üreticisi.",
+        "en": "En Ofis Mobilyaları kurumsal bilgiler: about us, missionumuz ve visionumuz. Gaziantep-based office furniture manufacturer.",
+        "ar": "أن أوفيس: معلومات الشركة — من نحن ومهمتنا ورؤيتنا. مصنع أثاث مكتبي مقره غازي عنتاب."
+      }
+    },
+    {
+      "name": {
+        "tr": "Ürünlerimiz",
+        "en": "Our Products",
+        "ar": "منتجاتنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "hs54qzyeyo",
+      "url": "",
+      "path": "urunler",
+      "index": 1,
+      "icon": "category",
+      "desing": {
+        "header": [],
+        "body": [
+          "kpsg6z"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "En Ofis Mobilyaları ürün grupları: VIP makam masa, çalışma masası, toplantı masası, koltuk, dolap, eğitim donanımı ve daha fazlası.",
+        "en": "En Ofis Mobilyaları products grupları: VIP makam masa, çalışma masası, toplantı masası, koltuk, dolap, eğitim donanımı ve daha fazlası.",
+        "ar": "مجموعات منتجات أن أوفيس: مكاتب VIP، مكاتب عمل، طاولات اجتماعات، كراسي، خزائن، تجهيزات تعليمية والمزيد."
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Projelerimiz",
+        "en": "Our Projects",
+        "ar": "مشاريعنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "prj8mob01",
+      "path": "projeler",
+      "index": 2,
+      "icon": "architecture",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "70q326"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "En Ofis Mobilyaları referans projeleri: kamu, eğitim, sağlık ve özel sektör ofis mobilyası uygulamaları. Gaziantep üretim.",
+        "en": "En Ofis Mobilyaları reference projects: kamu, eğitim, sağlık ve özel sektör office furniture uygulamaları. Gaziantep üretim.",
+        "ar": "مشاريع مرجعية: تطبيقات للقطاع الحكومي والتعليم والصحة والقطاع الخاص. إنتاج غازي عنتاب."
+      },
+      "img": "index.webp",
+      "url": ""
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 3,
+      "icon": "contact_mail",
+      "desing": {
+        "header": [],
+        "body": [
+          "fhxr98",
+          "bi4hta"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "En Ofis Mobilyaları iletişim: Büyükpınar, Şehitkamil / Gaziantep. Telefon, WhatsApp ve e-posta.",
+        "en": "En Ofis Mobilyaları contact: Büyükpınar, Şehitkamil / Gaziantep. Telefon, WhatsApp ve e-posta.",
+        "ar": "اتصل بنا: بيووك بينار، شهيت كامل / غازي عنتاب. هاتف وواتساب وبريد إلكتروني."
+      },
+      "img": "icon.png"
+    }
+  ],
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}

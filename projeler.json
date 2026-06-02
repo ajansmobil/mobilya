@@ -1,0 +1,213 @@
+{
+  "name": "Projeler",
+  "path": "projeler",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kamu Kurumu Makam ve Toplantı Katı",
+        "en": "Public Institution Executive & Meeting Floor",
+        "ar": "طابق مكاتب واجتماعات مؤسسة حكومية"
+      },
+      "status": "play",
+      "category": "prj8mob01",
+      "id": "1442cf4468",
+      "path": "kamu-kurumu-makam-ofisi",
+      "description": {
+        "tr": "En Ofis Mobilyaları Kamu Kurumu Makam ve Toplantı Katı referans uygulaması (Kamu). Gaziantep üretim, montaj dahil.",
+        "en": "En Ofis Mobilyaları Public Institution Executive & Meeting Floor reference project (Public). Manufactured in Gaziantep, installation included.",
+        "ar": "أن أوفيس — طابق مكاتب واجتماعات مؤسسة حكومية. مشروع مرجعي (حكومي). إنتاج غازي عنتاب، التركيب مشمول."
+      },
+      "index": 0,
+      "icon": "architecture",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Devlet Okulu Sınıf ve Sıra Donanımı",
+        "en": "State School Classroom & Desk Equipment",
+        "ar": "تجهيز فصول ومقاعد مدرسة حكومية"
+      },
+      "status": "play",
+      "category": "prj8mob01",
+      "id": "c07db2e533",
+      "path": "devlet-okulu-sinif-donanimi",
+      "description": {
+        "tr": "En Ofis Mobilyaları Devlet Okulu Sınıf ve Sıra Donanımı referans uygulaması (Eğitim). Gaziantep üretim, montaj dahil.",
+        "en": "En Ofis Mobilyaları State School Classroom & Desk Equipment reference project (Education). Manufactured in Gaziantep, installation included.",
+        "ar": "أن أوفيس — تجهيز فصول ومقاعد مدرسة حكومية. مشروع مرجعي (تعليم). إنتاج غازي عنتاب، التركيب مشمول."
+      },
+      "index": 1,
+      "icon": "architecture",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Üniversite Yurt Mobilya Uygulaması",
+        "en": "University Dormitory Furniture Project",
+        "ar": "مشروع أثاث سكن جامعي"
+      },
+      "status": "play",
+      "category": "prj8mob01",
+      "id": "603137886e",
+      "path": "universite-yurt-mobilya",
+      "description": {
+        "tr": "En Ofis Mobilyaları Üniversite Yurt Mobilya Uygulaması referans uygulaması (Eğitim). Gaziantep üretim, montaj dahil.",
+        "en": "En Ofis Mobilyaları University Dormitory Furniture Project reference project (Education). Manufactured in Gaziantep, installation included.",
+        "ar": "أن أوفيس — مشروع أثاث سكن جامعي. مشروع مرجعي (تعليم). إنتاج غازي عنتاب، التركيب مشمول."
+      },
+      "index": 2,
+      "icon": "architecture",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Özel Sektör Genel Müdürlük Ofisi",
+        "en": "Ozel Sektor Genel Mudurluk Ofisi",
+        "ar": "مكتب الإدارة العامة للقطاع الخاص"
+      },
+      "status": "play",
+      "category": "prj8mob01",
+      "id": "9bc5db710b",
+      "path": "ozel-sektor-genel-mudurluk",
+      "description": {
+        "tr": "En Ofis Mobilyaları Özel Sektör Genel Müdürlük Ofisi referans uygulaması (Özel sektör). Gaziantep üretim, montaj dahil.",
+        "en": "En Ofis Mobilyaları Özel Sektör Genel Müdürlük Ofisi reference project (Özel sektör). Manufactured in Gaziantep, installation included.",
+        "ar": "أن أوفيس — مكتب الإدارة العامة للقطاع الخاص. مشروع مرجعي (قطاع خاص). إنتاج غازي عنتاب، التركيب مشمول."
+      },
+      "index": 3,
+      "icon": "architecture",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Konferans ve Toplantı Salonu",
+        "en": "Konferans ve Toplanti Salonu",
+        "ar": "قاعة مؤتمرات واجتماعات"
+      },
+      "status": "play",
+      "category": "prj8mob01",
+      "id": "d8ff3dc9d5",
+      "path": "konferans-toplanti-salonu",
+      "description": {
+        "tr": "En Ofis Mobilyaları Konferans ve Toplantı Salonu referans uygulaması (Kurumsal). Gaziantep üretim, montaj dahil.",
+        "en": "En Ofis Mobilyaları Konferans ve Toplantı Salonu reference project (Corporate). Manufactured in Gaziantep, installation included.",
+        "ar": "أن أوفيس — قاعة مؤتمرات واجتماعات. مشروع مرجعي (شركة). إنتاج غازي عنتاب، التركيب مشمول."
+      },
+      "index": 4,
+      "icon": "architecture",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Resepsiyon Banko ve Workstation",
+        "en": "Resepsiyon Banko ve Workstation",
+        "ar": "كونتر استقبال ومحطة عمل"
+      },
+      "status": "play",
+      "category": "prj8mob01",
+      "id": "f80a8cd260",
+      "path": "resepsiyon-workstation-alani",
+      "description": {
+        "tr": "En Ofis Mobilyaları Resepsiyon Banko ve Workstation referans uygulaması (Kurumsal). Gaziantep üretim, montaj dahil.",
+        "en": "En Ofis Mobilyaları Resepsiyon Banko ve Workstation reference project (Corporate). Manufactured in Gaziantep, installation included.",
+        "ar": "أن أوفيس — كونتر استقبال ومحطة عمل. مشروع مرجعي (شركة). إنتاج غازي عنتاب، التركيب مشمول."
+      },
+      "index": 5,
+      "icon": "architecture",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "DMO Kamu İhale Mobilya Tedariki",
+        "en": "DMO Kamu Ihale Mobilya Tedariki",
+        "ar": "توريد أثاث مناقصة DMO الحكومية"
+      },
+      "status": "play",
+      "category": "prj8mob01",
+      "id": "8dcdf68016",
+      "path": "dmo-kamu-ihale-tedarik",
+      "description": {
+        "tr": "En Ofis Mobilyaları DMO Kamu İhale Mobilya Tedariki referans uygulaması (Kamu). Gaziantep üretim, montaj dahil.",
+        "en": "En Ofis Mobilyaları DMO Kamu İhale Mobilya Tedariki reference project (Public). Manufactured in Gaziantep, installation included.",
+        "ar": "أن أوفيس — توريد أثاث مناقصة DMO الحكومية. مشروع مرجعي (حكومي). إنتاج غازي عنتاب، التركيب مشمول."
+      },
+      "index": 6,
+      "icon": "architecture",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Sağlık Kampüsü Yönetim Katı",
+        "en": "Saglik Kampusu Yonetim Kati",
+        "ar": "طابق إدارة الحرم الصحي"
+      },
+      "status": "play",
+      "category": "prj8mob01",
+      "id": "89481b7eaa",
+      "path": "saglik-kampus-yonetim-kati",
+      "description": {
+        "tr": "En Ofis Mobilyaları Sağlık Kampüsü Yönetim Katı referans uygulaması (Sağlık). Gaziantep üretim, montaj dahil.",
+        "en": "En Ofis Mobilyaları Sağlık Kampüsü Yönetim Katı reference project (Healthcare). Manufactured in Gaziantep, installation included.",
+        "ar": "أن أوفيس — طابق إدارة الحرم الصحي. مشروع مرجعي (صحة). إنتاج غازي عنتاب، التركيب مشمول."
+      },
+      "index": 7,
+      "icon": "architecture",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "img": "index.webp"
+    }
+  ],
+  "index": 4,
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "70q326"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": false,
+    "detail": true
+  }
+}

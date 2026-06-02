@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Yurt Pansiyon Mobilyaları",
+    "en": "Dormitory & Boarding Furniture",
+    "ar": "أثاث السكن الجامعي والداخلي"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c07yurt",
+  "externalUrl": "",
+  "path": "yurt-pansiyon-mobilyalari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Yurt Pansiyon Mobilyaları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Dormitory & Boarding Furniture, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, أثاث السكن الجامعي والداخلي, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Yurt Pansiyon Mobilyaları. Yurt ve pansiyonlar için dayanıklı mobilya çözümleri. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Dormitory & Boarding Furniture. Durable furniture solutions for dorms and boarding schools. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — أثاث السكن الجامعي والداخلي. حلول أثاث متينة للسكن الجامعي والداخلي. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 6,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Yurt Pansiyon Mobilyaları | En Ofis Mobilyaları",
+    "en": "Dormitory & Boarding Furniture | En Ofis Mobilyaları",
+    "ar": "أثاث السكن الجامعي والداخلي | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yurt Pansiyon Mobilyaları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Yurt Pansiyon Mobilyaları. Yurt ve pansiyonlar için dayanıklı mobilya çözümleri. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Dormitory & Boarding Furniture</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Dormitory & Boarding Furniture. Durable furniture solutions for dorms and boarding schools. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">أثاث السكن الجامعي والداخلي</h2><p style=\"font-size: 16px;\">أن أوفيس — أثاث السكن الجامعي والداخلي. حلول أثاث متينة للسكن الجامعي والداخلي. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.349Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

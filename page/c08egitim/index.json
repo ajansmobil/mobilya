@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Eğitim Donanımları",
+    "en": "Educational Equipment",
+    "ar": "تجهيزات تعليمية"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c08egitim",
+  "externalUrl": "",
+  "path": "egitim-donanimlari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Eğitim Donanımları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Educational Equipment, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, تجهيزات تعليمية, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Eğitim Donanımları. Okul ve eğitim kurumları için sıra, masa ve donanım. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Educational Equipment. Desks, chairs and equipment for schools and educational institutions. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — تجهيزات تعليمية. مقاعد وطاولات وتجهيزات للمدارس والمؤسسات التعليمية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 7,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Eğitim Donanımları | En Ofis Mobilyaları",
+    "en": "Educational Equipment | En Ofis Mobilyaları",
+    "ar": "تجهيزات تعليمية | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Eğitim Donanımları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Eğitim Donanımları. Okul ve eğitim kurumları için sıra, masa ve donanım. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Educational Equipment</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Educational Equipment. Desks, chairs and equipment for schools and educational institutions. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">تجهيزات تعليمية</h2><p style=\"font-size: 16px;\">أن أوفيس — تجهيزات تعليمية. مقاعد وطاولات وتجهيزات للمدارس والمؤسسات التعليمية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.358Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

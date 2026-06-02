@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "İletişim",
+    "en": "Contact",
+    "ar": "اتصل بنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "xnzu5au0ag",
+  "url": "",
+  "path": "iletisim",
+  "index": 3,
+  "icon": "contact_mail",
+  "desing": {
+    "header": [],
+    "body": [
+      "fhxr98",
+      "bi4hta"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "En Ofis Mobilyaları iletişim: Büyükpınar, Şehitkamil / Gaziantep. Telefon, WhatsApp ve e-posta.",
+    "en": "En Ofis Mobilyaları contact: Büyükpınar, Şehitkamil / Gaziantep. Telefon, WhatsApp ve e-posta.",
+    "ar": "اتصل بنا: بيووك بينار، شهيت كامل / غازي عنتاب. هاتف وواتساب وبريد إلكتروني."
+  },
+  "desc": {},
+  "title": {
+    "tr": "İletişim | En Ofis Mobilyaları",
+    "en": "Contact | En Ofis Mobilyaları",
+    "ar": "اتصل بنا | أن أوفيس للأثاث المكتبي"
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, iletişim, Gaziantep ofis mobilya, telefon",
+    "en": "En Ofis Mobilyaları, contact, Gaziantep office furniture, telefon",
+    "ar": "أن أوفيس للأثاث المكتبي, اتصل, أثاث مكتبي غازي عنتاب, telefon"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">İletişim</h2>\n<p style=\"font-size: 16px;\">Büyükpınar Mah. Adana Yolu Blv. No: 139, 27000 Şehitkamil / Gaziantep. Telefon: 0 (342) 321 50 05 — WhatsApp: 0 530 516 42 93</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Contact</h2>\n<p style=\"font-size: 16px;\">Büyükpınar Mah. Adana Yolu Blv. No: 139, 27000 Şehitkamil / Gaziantep. Telefon: 0 (342) 321 50 05 — WhatsApp: 0 530 516 42 93</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">اتصل بنا</h2>\n<p style=\"font-size: 16px;\">بيووك بينار Mah. Adana Yolu Blv. No: 139, 27000 شهيت كامل / Gaziantep. هاتف: 0 (342) 321 50 05 — واتساب: 0 530 516 42 93</p>"
+  },
+  "update": "2026-06-02T03:50:50.198Z",
+  "date": "2026-06-02",
+  "img": "icon.png"
+}

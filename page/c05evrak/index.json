@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Evrak ve Soyunma Dolapları",
+    "en": "Filing & Locker Cabinets",
+    "ar": "خزائن الملفات والملابس"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c05evrak",
+  "externalUrl": "",
+  "path": "evrak-ve-soyunma-dolaplari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Evrak ve Soyunma Dolapları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Filing & Locker Cabinets, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, خزائن الملفات والملابس, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Evrak ve Soyunma Dolapları. 14 ürün — evrak ve soyunma dolabı sistemleri. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Filing & Locker Cabinets. 14 products — filing and locker cabinet systems. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — خزائن الملفات والملابس. 14 منتج — أنظمة خزائن الملفات والملابس. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 4,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Evrak ve Soyunma Dolapları | En Ofis Mobilyaları",
+    "en": "Filing & Locker Cabinets | En Ofis Mobilyaları",
+    "ar": "خزائن الملفات والملابس | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Evrak ve Soyunma Dolapları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Evrak ve Soyunma Dolapları. 14 ürün — evrak ve soyunma dolabı sistemleri. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Filing & Locker Cabinets</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Filing & Locker Cabinets. 14 products — filing and locker cabinet systems. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">خزائن الملفات والملابس</h2><p style=\"font-size: 16px;\">أن أوفيس — خزائن الملفات والملابس. 14 منتج — أنظمة خزائن الملفات والملابس. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.327Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

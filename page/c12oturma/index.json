@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Oturma Grupları ve Kanepeler",
+    "en": "Seating Groups & Sofas",
+    "ar": "مجموعات الجلوس والأرائك"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c12oturma",
+  "externalUrl": "",
+  "path": "oturma-gruplari-ve-kanepeler",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Oturma Grupları ve Kanepeler, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Seating Groups & Sofas, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, مجموعات الجلوس والأرائك, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Oturma Grupları ve Kanepeler. Oturma grupları, kanepeler ve lounge mobilyaları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Seating Groups & Sofas. Seating groups, sofas and lounge furniture. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — مجموعات الجلوس والأرائك. مجموعات جلوس وأرائك وأثاث صالات. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 11,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Oturma Grupları ve Kanepeler | En Ofis Mobilyaları",
+    "en": "Seating Groups & Sofas | En Ofis Mobilyaları",
+    "ar": "مجموعات الجلوس والأرائك | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Oturma Grupları ve Kanepeler</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Oturma Grupları ve Kanepeler. Oturma grupları, kanepeler ve lounge mobilyaları. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Seating Groups & Sofas</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Seating Groups & Sofas. Seating groups, sofas and lounge furniture. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">مجموعات الجلوس والأرائك</h2><p style=\"font-size: 16px;\">أن أوفيس — مجموعات الجلوس والأرائك. مجموعات جلوس وأرائك وأثاث صالات. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.392Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

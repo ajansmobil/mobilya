@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Makam Koltukları",
+    "en": "Executive Chairs",
+    "ar": "كراسي المكاتب التنفيذية"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c09makam",
+  "externalUrl": "",
+  "path": "makam-koltuklari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Makam Koltukları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Executive Chairs, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, كراسي المكاتب التنفيذية, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Makam Koltukları. Makam odaları için ergonomik ve şık koltuklar. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Executive Chairs. Ergonomic and elegant chairs for executive offices. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — كراسي المكاتب التنفيذية. كراسي مريحة وأنيقة للمكاتب التنفيذية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 8,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Makam Koltukları | En Ofis Mobilyaları",
+    "en": "Executive Chairs | En Ofis Mobilyaları",
+    "ar": "كراسي المكاتب التنفيذية | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Makam Koltukları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Makam Koltukları. Makam odaları için ergonomik ve şık koltuklar. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Executive Chairs</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Executive Chairs. Ergonomic and elegant chairs for executive offices. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">كراسي المكاتب التنفيذية</h2><p style=\"font-size: 16px;\">أن أوفيس — كراسي المكاتب التنفيذية. كراسي مريحة وأنيقة للمكاتب التنفيذية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.366Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

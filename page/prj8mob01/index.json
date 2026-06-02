@@ -1,0 +1,48 @@
+{
+  "name": {
+    "tr": "Projelerimiz",
+    "en": "Our Projects",
+    "ar": "مشاريعنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "prj8mob01",
+  "path": "projeler",
+  "index": 2,
+  "icon": "architecture",
+  "categorypage": "projeler",
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "70q326"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "En Ofis Mobilyaları referans projeleri: kamu, eğitim, sağlık ve özel sektör ofis mobilyası uygulamaları. Gaziantep üretim.",
+    "en": "En Ofis Mobilyaları reference projects: kamu, eğitim, sağlık ve özel sektör office furniture uygulamaları. Gaziantep üretim.",
+    "ar": "مشاريع مرجعية: تطبيقات للقطاع الحكومي والتعليم والصحة والقطاع الخاص. إنتاج غازي عنتاب."
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Projelerimiz</h2>\n<p style=\"font-size: 16px;\">En Ofis Mobilyaları olarak devlet okulları, üniversiteler, kamu kurumları ve özel sektörde <strong>makam odası</strong>, <strong>toplantı salonu</strong>, <strong>eğitim donanımı</strong> ve <strong>workstation</strong> uygulamaları gerçekleştiriyoruz. 20.000 m² kapalı alandaki üretim tesisimizde projeye özel çözümler sunuyoruz.</p>\n<p style=\"font-size: 16px;\">Aşağıda öne çıkan referans projelerimizi inceleyebilir; yeni projeniz için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Our Projects</h2>\n<p style=\"font-size: 16px;\">En Ofis Mobilyaları olarak devlet okulları, üniversiteler, kamu kurumları ve özel sektörde <strong>makam odası</strong>, <strong>toplantı salonu</strong>, <strong>eğitim donanımı</strong> ve <strong>workstation</strong> uygulamaları gerçekleştiriyoruz. 20.000 m² enclosed alandaki production facilitymizde projeye özel çözümler sunuyoruz.</p>\n<p style=\"font-size: 16px;\">Aşağıda öne çıkan reference projectsmizi inceleyebilir; yeni projeniz için bizimle contacte geçebilirsiniz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">مشاريعنا</h2>\n<p style=\"font-size: 16px;\">في أن أوفيس للأثاث المكتبي ننفّذ تطبيقات <strong>المكاتب التنفيذية</strong> و<strong>قاعات الاجتماعات</strong> و<strong>التجهيزات التعليمية</strong> و<strong>محطات العمل</strong> للمدارس الحكومية والجامعات والمؤسسات العامة والقطاع الخاص. نقدّم حلولاً مخصصة في منشأة إنتاج مغلقة بمساحة 20.000 م².</p>\n<p style=\"font-size: 16px;\">يمكنكم الاطلاع على مشاريعنا المرجعية أدناه أو التواصل معنا لمشروعكم الجديد.</p>"
+  },
+  "desc": {},
+  "title": {
+    "tr": "Projelerimiz | En Ofis Mobilyaları",
+    "en": "Our Projects | En Ofis Mobilyaları",
+    "ar": "مشاريعنا | أن أوفيس للأثاث المكتبي"
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, projeler, referans, ofis mobilya uygulama, Gaziantep",
+    "en": "En Ofis Mobilyaları, projeler, referans, office furniture uygulama, Gaziantep",
+    "ar": "أن أوفيس للأثاث المكتبي, مشاريع, مرجع, تطبيق أثاث مكتبي, غازي عنتاب"
+  },
+  "update": "2026-06-02T03:50:50.192Z",
+  "date": "2026-06-02",
+  "img": "index.webp",
+  "url": ""
+}

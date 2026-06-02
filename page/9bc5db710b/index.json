@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Özel Sektör Genel Müdürlük Ofisi",
+    "en": "Ozel Sektor Genel Mudurluk Ofisi",
+    "ar": "مكتب الإدارة العامة للقطاع الخاص"
+  },
+  "status": "play",
+  "category": "prj8mob01",
+  "id": "9bc5db710b",
+  "path": "ozel-sektor-genel-mudurluk",
+  "description": {
+    "tr": "En Ofis Mobilyaları Özel Sektör Genel Müdürlük Ofisi referans uygulaması (Özel sektör). Gaziantep üretim, montaj dahil.",
+    "en": "En Ofis Mobilyaları Özel Sektör Genel Müdürlük Ofisi reference project (Özel sektör). Manufactured in Gaziantep, installation included.",
+    "ar": "أن أوفيس — مكتب الإدارة العامة للقطاع الخاص. مشروع مرجعي (قطاع خاص). إنتاج غازي عنتاب، التركيب مشمول."
+  },
+  "index": 3,
+  "icon": "architecture",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {
+    "sektor": "Özel sektör"
+  },
+  "title": {
+    "tr": "Özel Sektör Genel Müdürlük Ofisi | En Ofis Mobilyaları",
+    "en": "Ozel Sektor Genel Mudurluk Ofisi | En Ofis Mobilyaları",
+    "ar": "مكتب الإدارة العامة للقطاع الخاص | أن أوفيس للأثاث المكتبي"
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, proje, referans, Özel Sektör Genel Müdürlük Ofisi, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, proje, referans, Özel Sektör Genel Müdürlük Ofisi, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, مشروع، مرجع, مكتب الإدارة العامة للقطاع الخاص, أثاث مكتبي غازي عنتاب"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 22px;\">Özel Sektör Genel Müdürlük Ofisi</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Özel sektör</p>\n<p style=\"font-size: 16px;\">Açık ofis workstation, yönetici masaları ve toplantı odası mobilyaları ile uçtan uca kurulum. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/tr/iletisim/\">iletişim</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "en": "<h2 style=\"font-size: 22px;\">Özel Sektör Genel Müdürlük Ofisi</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Özel sektör</p>\n<p style=\"font-size: 16px;\">Açık ofis workstation, yönetici masaları ve toplantı odası mobilyaları ile uçtan uca kurulum. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/en/contact/\">contact</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "ar": "<h2 style=\"font-size: 22px;\">مكتب الإدارة العامة للقطاع الخاص</h2>\n<p style=\"font-size: 16px;\"><strong>القطاع:</strong> القطاع الخاص</p>\n<p style=\"font-size: 16px;\">تركيب شامل: محطات عمل مفتوحة، مكاتب إدارية وأثاث غرف الاجتماعات. تصنيع وتركيب من أن أوفيس للأثاث المكتبي.</p>\n<p style=\"font-size: 15px;\">للمشاريع المماثلة اطلب عرضا عبر صفحة <a href=\"/ar/contact/\">اتصل بنا</a>.</p>"
+  },
+  "update": "2026-06-02T03:50:52.441Z",
+  "date": "2026-06-02",
+  "img": "index.webp"
+}

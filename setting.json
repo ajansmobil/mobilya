@@ -1,0 +1,35 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "En Ofis Mobilyaları — Gaziantep ofis mobilyası, makam masa, toplantı masası, koltuk, kanepe, okul sırası ve DMO tedarik. 20.000 m² kapalı alanda üretim.",
+    "en": "En Ofis Mobilyaları — Gaziantep office furniture: executive desks, meeting tables, seating, school desks and public procurement. 20,000 m² enclosed production.",
+    "ar": "أن أوفيس للأثاث المكتبي — أثاث مكتبي غازي عنتاب: مكاتب تنفيذية، طاولات اجتماعات، كراسي، أرائك، مقاعد مدرسية وتوريد DMO. إنتاج في 20.000 م² مساحة مغلقة."
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Gaziantep ofis mobilya, makam masa, ofis koltuğu, toplantı masası, workstation, okul sırası, DMO mobilya, ofis dolabı",
+    "en": "En Ofis Mobilyaları, Gaziantep office furniture, executive desk, office chair, meeting table, workstation, school desk, DMO furniture, office cabinet",
+    "ar": "أن أوفيس، أثاث مكتبي غازي عنتاب، مكتب تنفيذي، كرسي مكتب، طاولة اجتماعات، محطة عمل، مقعد مدرسي، أثاث DMO، خزانة مكتب"
+  },
+  "category": "Kurumsal",
+  "name": "En Ofis Mobilyaları",
+  "domain": "mobilya.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "eticaret": false,
+  "theme_color": "#1e3046"
+}

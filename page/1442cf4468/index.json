@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Kamu Kurumu Makam ve Toplantı Katı",
+    "en": "Public Institution Executive & Meeting Floor",
+    "ar": "طابق مكاتب واجتماعات مؤسسة حكومية"
+  },
+  "status": "play",
+  "category": "prj8mob01",
+  "id": "1442cf4468",
+  "path": "kamu-kurumu-makam-ofisi",
+  "description": {
+    "tr": "En Ofis Mobilyaları Kamu Kurumu Makam ve Toplantı Katı referans uygulaması (Kamu). Gaziantep üretim, montaj dahil.",
+    "en": "En Ofis Mobilyaları Public Institution Executive & Meeting Floor reference project (Public). Manufactured in Gaziantep, installation included.",
+    "ar": "أن أوفيس — طابق مكاتب واجتماعات مؤسسة حكومية. مشروع مرجعي (حكومي). إنتاج غازي عنتاب، التركيب مشمول."
+  },
+  "index": 0,
+  "icon": "architecture",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {
+    "sektor": "Kamu"
+  },
+  "title": {
+    "tr": "Kamu Kurumu Makam ve Toplantı Katı | En Ofis Mobilyaları",
+    "en": "Public Institution Executive & Meeting Floor | En Ofis Mobilyaları",
+    "ar": "طابق مكاتب واجتماعات مؤسسة حكومية | أن أوفيس للأثاث المكتبي"
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, proje, referans, Kamu Kurumu Makam ve Toplantı Katı, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, proje, referans, Public Institution Executive & Meeting Floor, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, مشروع، مرجع, طابق مكاتب واجتماعات مؤسسة حكومية, أثاث مكتبي غازي عنتاب"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 22px;\">Kamu Kurumu Makam ve Toplantı Katı</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Kamu</p>\n<p style=\"font-size: 16px;\">Makam odası, toplantı salonu ve evrak dolabı ile komple kat mobilyası; VIP masa takımları ve konferans masaları. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/tr/iletisim/\">iletişim</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "en": "<h2 style=\"font-size: 22px;\">Public Institution Executive & Meeting Floor</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Kamu</p>\n<p style=\"font-size: 16px;\">Makam odası, toplantı salonu ve evrak dolabı ile komple kat mobilyası; VIP masa takımları ve konferans masaları. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/en/contact/\">contact</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "ar": "<h2 style=\"font-size: 22px;\">طابق مكاتب واجتماعات مؤسسة حكومية</h2>\n<p style=\"font-size: 16px;\"><strong>القطاع:</strong> حكومي</p>\n<p style=\"font-size: 16px;\">أثاث طابق كامل: مكتب تنفيذي، قاعة اجتماعات وخزائن ملفات؛ طقم مكاتب VIP وطاولات مؤتمرات. تصنيع وتركيب من أن أوفيس للأثاث المكتبي.</p>\n<p style=\"font-size: 15px;\">للمشاريع المماثلة اطلب عرضا عبر صفحة <a href=\"/ar/contact/\">اتصل بنا</a>.</p>"
+  },
+  "update": "2026-06-02T03:50:52.412Z",
+  "date": "2026-06-02",
+  "img": "index.webp"
+}

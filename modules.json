@@ -1,0 +1,412 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menu",
+      "path": "menu-2",
+      "local": "header",
+      "category": "menu",
+      "id": "vey1el",
+      "desing": {
+        "bgcolor": "#1e3046",
+        "color": "#ffffff",
+        "activebgcolor": "#DE6D26",
+        "activecolor": "#ffffff"
+      },
+      "version": "1.0.0",
+      "icon": "menu"
+    },
+    {
+      "index": 1,
+      "name": "Slider Text",
+      "path": "slider-text",
+      "local": "header",
+      "category": "slider",
+      "id": "k4t90c",
+      "desing": {
+        "delay": 5000,
+        "margin": "0px 0 0 0",
+        "height": "620px",
+        "max": "1280px",
+        "overlay": "0.52",
+        "align": "left",
+        "titlecolor": "#ffffff",
+        "desccolor": "rgba(255, 255, 255, 0.9)",
+        "btncolor": "#ffffff",
+        "btnbg": "#DE6D26",
+        "border_radius": "10px",
+        "layout": ""
+      },
+      "version": "1.0.0",
+      "icon": "view_carousel",
+      "data": [
+        {
+          "bg": "1.webp",
+          "bgcolor": "#1e3046",
+          "title": {
+            "tr": "Kalitenin En Ofis Hali",
+            "en": "Quality, the En Ofis Way",
+            "ar": "جودة على طريقة أن أوفيس"
+          },
+          "description": {
+            "tr": "VIP makam, çalışma ve toplantı mobilyalarında premium kalite. Koleksiyonlarımızı keşfedin.",
+            "en": "Premium quality in VIP executive, work and meeting furniture. Explore our collections.",
+            "ar": "جودة متميزة في أثاث VIP والعمل وطاولات الاجتماعات. اكتشف مجموعاتنا."
+          },
+          "button": {
+            "tr": "Ürünleri Gör",
+            "en": "View Products",
+            "ar": "عرض المنتجات"
+          },
+          "link": "urunler"
+        },
+        {
+          "bg": "2.webp",
+          "bgcolor": "#1e3046",
+          "title": {
+            "tr": "Gaziantep'ten Türkiye'ye",
+            "en": "From Gaziantep to Turkey",
+            "ar": "من غازي عنتاب إلى تركيا"
+          },
+          "description": {
+            "tr": "20.000 m² kapalı alanda üretim; devlet okulları ve özel sektöre A'dan Z'ye mobilya çözümleri.",
+            "en": "Production in 20,000 m² enclosed area; end-to-end furniture solutions for public schools and private sector.",
+            "ar": "إنتاج في 20.000 م² مساحة مغلقة؛ حلول أثاث شاملة للمدارس الحكومية والقطاع الخاص."
+          },
+          "button": {
+            "tr": "Hakkımızda",
+            "en": "About Us",
+            "ar": "من نحن"
+          },
+          "link": "hakkimizda"
+        },
+        {
+          "bg": "3.webp",
+          "bgcolor": "#1e3046",
+          "title": {
+            "tr": "Geleneksel Ustalık, Modern Tasarım",
+            "en": "Traditional Craft, Modern Design",
+            "ar": "حرفية تقليدية، تصميم عصري"
+          },
+          "description": {
+            "tr": "Makam odalarından konferans salonlarına özgün ve fonksiyonel ofis mobilyaları.",
+            "en": "Distinctive, functional office furniture from executive suites to conference halls.",
+            "ar": "أثاث مكتبي أصيل وعملي من المكاتب التنفيذية إلى قاعات المؤتمرات."
+          },
+          "button": {
+            "tr": "İletişime Geç",
+            "en": "Contact Us",
+            "ar": "اتصل بنا"
+          },
+          "link": "iletisim"
+        }
+      ]
+    },
+    {
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "id": "fhxr98",
+      "desing": {
+        "color": "#1e3046",
+        "name": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "تواصل معنا"
+        },
+        "margin": "48px auto 32px auto"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "0 (342) 321 50 05",
+          "url": "tel:+903423215005"
+        },
+        {
+          "icon": "phone",
+          "text": "WhatsApp: 0 530 516 42 93",
+          "url": "https://wa.me/905305164293"
+        },
+        {
+          "icon": "email",
+          "text": "info@enofismobilyalari.com",
+          "url": "mailto:info@enofismobilyalari.com"
+        },
+        {
+          "icon": "map",
+          "text": "Büyükpınar Mah. Adana Yolu Blv. No: 139, 27000 Şehitkamil / Gaziantep"
+        }
+      ],
+      "version": "1.0.0",
+      "icon": "contact_mail",
+      "index": 2
+    },
+    {
+      "index": 3,
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "id": "bi4hta",
+      "desing": {
+        "height": "320",
+        "opacity": "0.42",
+        "backgroundcolor": "#fff",
+        "color": "#fff",
+        "img": "map.jpg",
+        "externalUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BCy%C3%BCkp%C4%B1nar+Mah.+Adana+Yolu+Blv.+No+139+%C5%9Eehitkamil+Gaziantep"
+      },
+      "version": "1.0.0",
+      "icon": "map"
+    },
+    {
+      "index": 5,
+      "name": "Page Desing",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "id": "tp5jo4",
+      "desing": {
+        "height": "240",
+        "opacity": "0.58",
+        "font-size": "38",
+        "backgroundcolor": "#1e3046",
+        "menu-active": "#DE6D26",
+        "textcolor": "#ffffff",
+        "bgcolor": "#FAFBFC",
+        "color": "#4a5c6d",
+        "colortitle": "#1e3046",
+        "coloractive": "#152A3D",
+        "border_radius": "12px",
+        "card_shadow": "0 10px 32px rgba(30, 48, 70, 0.12)",
+        "contact_path": "iletisim",
+        "whatsapp": "905305164293"
+      },
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "id": "txt39m",
+      "desing": {
+        "bgcolor": "#152a3d",
+        "color": "#ffffff",
+        "img": "",
+        "imgwidth": "220px"
+      },
+      "data": [],
+      "version": "1.0.0",
+      "icon": "web_asset",
+      "index": 6
+    },
+    {
+      "index": 7,
+      "name": "Sayfa Listesi Column",
+      "path": "page-column-3",
+      "desing": {
+        "page": "category",
+        "bgcolor": "#1e3046",
+        "color": "#ffffff",
+        "height": "300px",
+        "font-size": "20px",
+        "opacity": "0.58",
+        "chilebgcolor": "rgba(21, 42, 61, 0.88)",
+        "chilecolor": "#f0f4f8",
+        "chilesize": "15px"
+      },
+      "category": "page-list",
+      "id": "kpsg6z",
+      "local": "body",
+      "version": "1.0.0",
+      "icon": "grid_view"
+    },
+    {
+      "index": 8,
+      "name": "Kategori Ürün Listesi",
+      "path": "page-category-3",
+      "desing": {
+        "size": 4,
+        "page": "page",
+        "bgcolor": "#FAFBFC",
+        "color": "#1e3046",
+        "colortitle": "#1e3046",
+        "coloractive": "#DE6D26",
+        "border_radius": "12px",
+        "card_shadow": "0 10px 32px rgba(30, 48, 70, 0.12)",
+        "max": "1280px"
+      },
+      "category": "page-category",
+      "id": "70q326",
+      "local": "body",
+      "data": []
+    },
+    {
+      "index": 9,
+      "name": "Page Desc",
+      "path": "page-desc",
+      "desing": {
+        "height": "220",
+        "opacity": "0.56",
+        "font-size": "34",
+        "backgroundcolor": "#1e3046",
+        "menu-active": "#DE6D26",
+        "textcolor": "#ffffff",
+        "bgcolor": "#FAFBFC",
+        "color": "#4a5c6d",
+        "colortitle": "#1e3046",
+        "category": "category",
+        "coloractive": "#DE6D26"
+      },
+      "category": "page",
+      "version": "1.0.0",
+      "icon": "web",
+      "id": "2n6519",
+      "local": "body",
+      "data": []
+    },
+    {
+      "index": 10,
+      "name": "Ana Sayfa Hero",
+      "path": "hero-1",
+      "local": "body",
+      "category": "hero",
+      "id": "mobh01",
+      "desing": {
+        "max": "1280px",
+        "gradient": "linear-gradient(135deg, #1e3046 0%, #2a4560 52%, #152a3d 100%)",
+        "overlay": "linear-gradient(135deg, rgba(30, 48, 70, 0.9) 0%, rgba(21, 42, 61, 0.85) 100%)",
+        "title_accent": "linear-gradient(135deg, #DE6D26, #f0a06a)",
+        "btn_primary_bg": "#DE6D26",
+        "btn_primary_color": "#ffffff",
+        "stat_accent": "#DE6D26",
+        "shape1": "linear-gradient(135deg, rgba(222, 109, 38, 0.42), rgba(222, 109, 38, 0.1))",
+        "shape2": "linear-gradient(135deg, rgba(42, 69, 96, 0.5), rgba(30, 48, 70, 0.22))",
+        "shape3": "linear-gradient(135deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.03))",
+        "title": {
+          "tr": "Gaziantep'in Güvenilir Ofis Mobilyası Üreticisi",
+          "en": "Gaziantep's Trusted Office Furniture Manufacturer",
+          "ar": "الشركة الموثوقة لأثاث المكاتب في غازي عنتاب"
+        },
+        "description": {
+          "tr": "2012'den bu yana makam masasından konferans koltuğuna; kamu, eğitim ve özel sektör için üretim, tedarik ve montaj hizmeti.",
+          "en": "Since 2012: executive desks to conference chairs; manufacturing, supply and installation for public, education and private sector.",
+          "ar": "منذ 2012: من مكاتب التنفيذ إلى كراسي المؤتمرات؛ تصنيع وتوريد وتركيب للقطاع الحكومي والتعليم والخاص."
+        },
+        "badge": {
+          "tr": "20.000 m² kapalı alan · Yerli üretim",
+          "en": "20,000 m² enclosed area · Local production",
+          "ar": "20.000 م² مساحة مغلقة · إنتاج محلي"
+        },
+        "image": "/img/k4t90c/1.webp",
+        "alt": {
+          "tr": "En Ofis Mobilyaları üretim",
+          "en": "En Ofis Mobilyaları production",
+          "ar": "إنتاج أن أوفيس للأثاث المكتبي"
+        },
+        "btn1": {
+          "tr": "Ürün Grupları",
+          "en": "Product Groups",
+          "ar": "مجموعات المنتجات"
+        },
+        "btn1_url": {
+          "tr": "/tr/urunler/",
+          "en": "/en/urunler/",
+          "ar": "/ar/urunler/"
+        },
+        "btn2": {
+          "tr": "Referans Projeler",
+          "en": "Reference Projects",
+          "ar": "مشاريع مرجعية"
+        },
+        "btn2_url": {
+          "tr": "/tr/projeler/",
+          "en": "/en/projeler/",
+          "ar": "/ar/projeler/"
+        },
+        "stats": {
+          "tr": "2012|Kuruluş|20000|m² Üretim|13|Ürün Grubu|250+|Model",
+          "en": "2012|Founded|20000|m² Production|13|Product Groups|250+|Models",
+          "ar": "2012|التأسيس|20000|م² إنتاج|13|مجموعة منتجات|250+|طراز"
+        }
+      },
+      "version": "1.0.0",
+      "icon": "hero"
+    },
+    {
+      "index": 12,
+      "name": "Ollama Chatbot",
+      "path": "ollama-chatbot",
+      "desing": {
+        "model": "gemma4:31b-cloud",
+        "ollamaHost": "https://ollama.com",
+        "proxyUrl": "https://nameless-math-8e53.yunusevgane.workers.dev/api/ollama-cloud-chat",
+        "apiKey": "6076ae1b120b48e6827b3a0cba540760.ZGJkKH6EhdJi_W3k8qmKyPIM",
+        "color": "#DE6D26",
+        "bgcolor": "#FFFFFF",
+        "colortitle": "#1E3046",
+        "coloractive": "#152A3D",
+        "buttontext": "#FFFFFF",
+        "text": "#1E3046",
+        "surface": "#EEF2F6",
+        "border_radius": "16px",
+        "name": {
+          "tr": "En Ofis Asistan",
+          "en": "En Ofis Assistant",
+          "ar": "مساعد أن أوفيس"
+        },
+        "status": {
+          "tr": "Çevrimiçi — size yardımcı olmaya hazır",
+          "en": "Online — ready to help",
+          "ar": "متصل — جاهز للمساعدة"
+        },
+        "welcome": {
+          "tr": "Merhaba! En Ofis Mobilyaları hakkında ürünler, teslimat veya teklif konularında size yardımcı olabilirim.",
+          "en": "Hello! I can help you with En Ofis products, delivery or quotes.",
+          "ar": "مرحباً! يمكنني مساعدتك في منتجات أن أوفيس والتسليم والعروض."
+        },
+        "placeholder": {
+          "tr": "Sorunuzu yazın...",
+          "en": "Type your question...",
+          "ar": "اكتب سؤالك..."
+        },
+        "send_text": {
+          "tr": "Gönder",
+          "en": "Send",
+          "ar": "إرسال"
+        },
+        "typing_text": {
+          "tr": "Yazıyor",
+          "en": "Typing",
+          "ar": "يكتب"
+        },
+        "error_text": {
+          "tr": "Bağlantı hatası. Lütfen tekrar deneyin.",
+          "en": "Connection error. Please try again.",
+          "ar": "خطأ في الاتصال. يرجى المحاولة مرة أخرى."
+        },
+        "system_prompt": {
+          "tr": "Sen En Ofis Mobilyaları (Gaziantep) web sitesinin yardımcı asistanısın. Ofis mobilyası, makam masası, toplantı masası, koltuk ve DMO tedarik konularında kısa, net ve nazik Türkçe yanıt ver.",
+          "en": "You are the assistant for En Ofis office furniture (Gaziantep). Reply briefly and politely in English about products, desks, chairs and delivery.",
+          "ar": "أنت مساعد موقع أن أوفيس للأثاث المكتبي (غازي عنتاب). أجب بإيجاز وبلطف بالعربية عن المنتجات والمكاتب والكراسي والتسليم."
+        },
+        "z_index": 10001,
+        "position": "fixed",
+        "product_link_text": {
+          "tr": "İncele",
+          "en": "View",
+          "ar": "عرض"
+        }
+      },
+      "category": "contact",
+      "data": [],
+      "version": "1.0.0",
+      "icon": "smart_toy",
+      "id": "39i5yg",
+      "local": "footer"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "VIP Makam Masa Takımları",
+    "en": "VIP Executive Desk Sets",
+    "ar": "مجموعات مكاتب VIP التنفيذية"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c01vip",
+  "externalUrl": "",
+  "path": "vip-makam-masa-takimlari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, VIP Makam Masa Takımları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, VIP Executive Desk Sets, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, مجموعات مكاتب VIP التنفيذية, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları VIP Makam Masa Takımları. 32 ürün — makam odaları için prestijli masa takımları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları VIP Executive Desk Sets. 32 products — prestigious desk sets for executive offices. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — مجموعات مكاتب VIP التنفيذية. 32 منتج — طقم مكاتب فاخر للمكاتب التنفيذية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 0,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "VIP Makam Masa Takımları | En Ofis Mobilyaları",
+    "en": "VIP Executive Desk Sets | En Ofis Mobilyaları",
+    "ar": "مجموعات مكاتب VIP التنفيذية | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">VIP Makam Masa Takımları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları VIP Makam Masa Takımları. 32 ürün — makam odaları için prestijli masa takımları. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">VIP Executive Desk Sets</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları VIP Executive Desk Sets. 32 products — prestigious desk sets for executive offices. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">مجموعات مكاتب VIP التنفيذية</h2><p style=\"font-size: 16px;\">أن أوفيس للأثاث المكتبي — مجموعات مكاتب VIP التنفيذية. 32 منتج: طقم مكاتب فاخر للمكاتب التنفيذية. نقدم خدمة بجودة متميزة في القطاع.</p>"
+  },
+  "update": "2026-06-02T03:50:52.285Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

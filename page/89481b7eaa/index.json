@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Sağlık Kampüsü Yönetim Katı",
+    "en": "Saglik Kampusu Yonetim Kati",
+    "ar": "طابق إدارة الحرم الصحي"
+  },
+  "status": "play",
+  "category": "prj8mob01",
+  "id": "89481b7eaa",
+  "path": "saglik-kampus-yonetim-kati",
+  "description": {
+    "tr": "En Ofis Mobilyaları Sağlık Kampüsü Yönetim Katı referans uygulaması (Sağlık). Gaziantep üretim, montaj dahil.",
+    "en": "En Ofis Mobilyaları Sağlık Kampüsü Yönetim Katı reference project (Healthcare). Manufactured in Gaziantep, installation included.",
+    "ar": "أن أوفيس — طابق إدارة الحرم الصحي. مشروع مرجعي (صحة). إنتاج غازي عنتاب، التركيب مشمول."
+  },
+  "index": 7,
+  "icon": "architecture",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {
+    "sektor": "Sağlık"
+  },
+  "title": {
+    "tr": "Sağlık Kampüsü Yönetim Katı | En Ofis Mobilyaları",
+    "en": "Saglik Kampusu Yonetim Kati | En Ofis Mobilyaları",
+    "ar": "طابق إدارة الحرم الصحي | أن أوفيس للأثاث المكتبي"
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, proje, referans, Sağlık Kampüsü Yönetim Katı, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, proje, referans, Sağlık Kampüsü Yönetim Katı, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, مشروع، مرجع, طابق إدارة الحرم الصحي, أثاث مكتبي غازي عنتاب"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 22px;\">Sağlık Kampüsü Yönetim Katı</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Sağlık</p>\n<p style=\"font-size: 16px;\">Yönetim katı makam odaları, bekleme alanı oturma grupları ve personel workstation düzeni. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/tr/iletisim/\">iletişim</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "en": "<h2 style=\"font-size: 22px;\">Sağlık Kampüsü Yönetim Katı</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Sağlık</p>\n<p style=\"font-size: 16px;\">Yönetim katı makam odaları, bekleme alanı oturma grupları ve personel workstation düzeni. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/en/contact/\">contact</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "ar": "<h2 style=\"font-size: 22px;\">طابق إدارة الحرم الصحي</h2>\n<p style=\"font-size: 16px;\"><strong>القطاع:</strong> صحة</p>\n<p style=\"font-size: 16px;\">مكاتب تنفيذية في طابق الإدارة، مجموعات جلوس منطقة الانتظار وترتيب محطات عمل الموظفين. تصنيع وتركيب من أن أوفيس للأثاث المكتبي.</p>\n<p style=\"font-size: 15px;\">للمشاريع المماثلة اطلب عرضا عبر صفحة <a href=\"/ar/contact/\">اتصل بنا</a>.</p>"
+  },
+  "update": "2026-06-02T03:50:52.475Z",
+  "date": "2026-06-02",
+  "img": "index.webp"
+}

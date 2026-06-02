@@ -1,0 +1,42 @@
+{
+  "name": {
+    "tr": "Kullanıcı Hakları",
+    "en": "User Rights",
+    "ar": "حقوق المستخدم"
+  },
+  "status": "play",
+  "id": "kullanicahaklari",
+  "path": "kullanici-haklari",
+  "category": "",
+  "text": {
+    "tr": "<div class=\"mob-kurum-wrap mob-kurum-legal\"><div class=\"mob-kurum-hero mob-kurum-hero-legal\"><span class=\"mob-kurum-hero-label\">Kullanıcı</span><p class=\"mob-kurum-hero-title\">Site kullanım hakları</p></div><p class=\"mob-kurum-lead\">Web sitemizi ve hizmetlerimizi kullanırken haklarınıza saygı duyuyoruz; içerik ve hizmetler bu çerçevede sunulur.</p><div class=\"mob-kurum-section\"><h3>Erişim ve içerik</h3><p class=\"mob-kurum-text\">Yayınlanan metin, görsel ve ürün bilgilerini kişisel ve bilgilendirme amacıyla kullanabilirsiniz. Ticari çoğaltma, yeniden yayımlama veya otomatik veri çekme için yazılı izin gerekir.</p></div><div class=\"mob-kurum-section\"><h3>Sorumluluk sınırları</h3><p class=\"mob-kurum-text\">Sitedeki bilgiler genel bilgilendirme niteliğindedir; ürün görselleri ve ölçüler projeye göre değişebilir. Teklif ve sözleşme öncesi güncel bilgi için satış ekibimizle teyit edilmesi önerilir.</p></div><div class=\"mob-kurum-section\"><h3>Şikayet ve başvuru</h3><p class=\"mob-kurum-text\">Haklarınızla ilgili sorularınız için <a href=\"/tr/iletisim/\">iletişim</a> kanallarımızı kullanabilirsiniz; talepleriniz kayıt altına alınır ve makul sürede yanıtlanır.</p></div><div class=\"mob-kurum-nav\"><span class=\"mob-kurum-nav-label\">İlgili sayfalar</span><a href=\"/tr/kurumsal/gizlilik-politikasi/\">Gizlilik</a><a href=\"/tr/kurumsal/kisisel-veriler/\">Kişisel Veriler</a><a href=\"/tr/kurumsal/kullanici-haklari/\">Kullanıcı Hakları</a><a href=\"/tr/kurumsal/yasal-uyari/\">Yasal Uyarı</a></div></div>",
+    "en": "<div class=\"mob-kurum-wrap mob-kurum-legal\"><div class=\"mob-kurum-hero mob-kurum-hero-legal\"><span class=\"mob-kurum-hero-label\">User</span><p class=\"mob-kurum-hero-title\">Website usage rights</p></div><p class=\"mob-kurum-lead\">We respect your rights when using our website and services; content and services are provided within this framework.</p><div class=\"mob-kurum-section\"><h3>Access and content</h3><p class=\"mob-kurum-text\">You may use published text, images and product information for personal and informational purposes. Commercial reproduction or automated scraping requires written permission.</p></div><div class=\"mob-kurum-section\"><h3>Limitation of liability</h3><p class=\"mob-kurum-text\">Site information is for general guidance; product images and dimensions may vary by project. Please confirm with our sales team before quotes and contracts.</p></div><div class=\"mob-kurum-section\"><h3>Complaints</h3><p class=\"mob-kurum-text\">For questions about your rights, use our <a href=\"/en/contact/\">contact</a> channels; requests are logged and answered within a reasonable time.</p></div><div class=\"mob-kurum-nav\"><span class=\"mob-kurum-nav-label\">Related pages</span><a href=\"/en/kurumsal/gizlilik-politikasi/\">Privacy</a><a href=\"/en/kurumsal/kisisel-veriler/\">Personal Data</a><a href=\"/en/kurumsal/kullanici-haklari/\">User Rights</a><a href=\"/en/kurumsal/yasal-uyari/\">Legal Notice</a></div></div>",
+    "ar": "<div class=\"mob-kurum-wrap mob-kurum-legal\"><div class=\"mob-kurum-hero mob-kurum-hero-legal\"><span class=\"mob-kurum-hero-label\">المستخدم</span><p class=\"mob-kurum-hero-title\">حقوق استخدام الموقع</p></div><p class=\"mob-kurum-lead\">نحترم حقوقك عند استخدام موقعنا وخدماتنا؛ يُقدّم المحتوى والخدمات في هذا الإطار.</p><div class=\"mob-kurum-section\"><h3>الوصول والمحتوى</h3><p class=\"mob-kurum-text\">يمكنك استخدام النصوص والصور ومعلومات المنتجات لأغراض شخصية ومعلوماتية. النسخ التجاري أو السحب الآلي يتطلب إذناً كتابياً.</p></div><div class=\"mob-kurum-section\"><h3>حدود المسؤولية</h3><p class=\"mob-kurum-text\">معلومات الموقع للإرشاد العام؛ قد تختلف الصور والأبعاد حسب المشروع. يُنصح بالتأكيد مع فريق المبيعات قبل العروض والعقود.</p></div><div class=\"mob-kurum-section\"><h3>الشكاوى</h3><p class=\"mob-kurum-text\">للأسئلة حول حقوقك استخدم <a href=\"/ar/contact/\">اتصل بنا</a>؛ تُسجّل الطلبات وتُرد في وقت معقول.</p></div><div class=\"mob-kurum-nav\"><span class=\"mob-kurum-nav-label\">صفحات ذات صلة</span><a href=\"/ar/kurumsal/gizlilik-politikasi/\">الخصوصية</a><a href=\"/ar/kurumsal/kisisel-veriler/\">البيانات الشخصية</a><a href=\"/ar/kurumsal/kullanici-haklari/\">حقوق المستخدم</a><a href=\"/ar/kurumsal/yasal-uyari/\">إشعار قانوني</a></div></div>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 6,
+  "icon": "gavel",
+  "title": {
+    "tr": "Kullanıcı Hakları",
+    "en": "User Rights",
+    "ar": "حقوق المستخدم"
+  },
+  "description": {
+    "tr": "Kullanıcı hakları: site içeriği kullanımı, sorumluluk sınırları ve şikayet başvuruları.",
+    "en": "User rights: content use, limitation of liability and complaints.",
+    "ar": "حقوق المستخدم: استخدام المحتوى وحدود المسؤولية والشكاوى."
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, kullanıcı hakları",
+    "en": "En Ofis Mobilyaları, user rights",
+    "ar": "أن أوفيس للأثاث المكتبي, حقوق المستخدم"
+  },
+  "update": "2026-06-02T03:50:52.263Z",
+  "date": "2026-05-19",
+  "bgimg": "hero.webp"
+}

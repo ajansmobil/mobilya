@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Konferans Koltukları",
+    "en": "Conference Chairs",
+    "ar": "كراسي المؤتمرات"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c13konferans",
+  "externalUrl": "",
+  "path": "konferans-koltuklari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Konferans Koltukları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Conference Chairs, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, كراسي المؤتمرات, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Konferans Koltukları. Konferans salonları ve toplantı odaları için koltuklar. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Conference Chairs. Chairs for conference halls and meeting rooms. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — كراسي المؤتمرات. كراسي قاعات المؤتمرات وغرف الاجتماعات. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 12,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Konferans Koltukları | En Ofis Mobilyaları",
+    "en": "Conference Chairs | En Ofis Mobilyaları",
+    "ar": "كراسي المؤتمرات | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Konferans Koltukları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Konferans Koltukları. Konferans salonları ve toplantı odaları için koltuklar. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Conference Chairs</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Conference Chairs. Chairs for conference halls and meeting rooms. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">كراسي المؤتمرات</h2><p style=\"font-size: 16px;\">أن أوفيس — كراسي المؤتمرات. كراسي قاعات المؤتمرات وغرف الاجتماعات. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.402Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

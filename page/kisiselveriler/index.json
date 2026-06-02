@@ -1,0 +1,42 @@
+{
+  "name": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية"
+  },
+  "status": "play",
+  "id": "kisiselveriler",
+  "path": "kisisel-veriler",
+  "category": "",
+  "text": {
+    "tr": "<div class=\"mob-kurum-wrap mob-kurum-legal\"><div class=\"mob-kurum-hero mob-kurum-hero-legal\"><span class=\"mob-kurum-hero-label\">KVKK</span><p class=\"mob-kurum-hero-title\">Kişisel verilerin korunması</p></div><p class=\"mob-kurum-meta\">6698 sayılı Kanun kapsamında bilgilendirme</p><p class=\"mob-kurum-lead\">Kişisel verilerinizi korumak için gerekli teknik ve idari tedbirleri alıyoruz. Bu sayfa işleme amaçlarını, veri kategorilerini ve haklarınızı açıklar.</p><div class=\"mob-kurum-section\"><h3>İşleme amaçları</h3><p class=\"mob-kurum-text\">Verileriniz yalnızca yasal yükümlülükler, talep ve şikayetlere yanıt, teklif ve sipariş süreçleri ile hizmet sunumu amacıyla işlenir; açık rızanız olmadan üçüncü kişilerle paylaşılmaz.</p></div><div class=\"mob-kurum-section\"><h3>Veri kategorileri</h3><p class=\"mob-kurum-text\">Kimlik, iletişim, müşteri işlem ve talep/şikayet bilgileri; web sitesi kullanımına ilişkin log kayıtları sınırlı süre ve amaçla işlenebilir.</p></div><div class=\"mob-kurum-section\"><h3>Haklarınız ve başvuru</h3><ul class=\"mob-kurum-list mob-kurum-list-check\"><li>Verilerinizin işlenip işlenmediğini öğrenme</li><li>Bilgi talep etme, düzeltme veya silme isteme</li><li>İşleme faaliyetleri hakkında bilgilendirilme</li><li>Şikayet hakkını kullanma</li></ul><p class=\"mob-kurum-text\">Başvurularınızı yazılı veya kayıtlı elektronik ortamda iletebilirsiniz; yasal süreler içinde yanıtlanır.</p></div><div class=\"mob-kurum-nav\"><span class=\"mob-kurum-nav-label\">İlgili sayfalar</span><a href=\"/tr/kurumsal/gizlilik-politikasi/\">Gizlilik</a><a href=\"/tr/kurumsal/kisisel-veriler/\">Kişisel Veriler</a><a href=\"/tr/kurumsal/kullanici-haklari/\">Kullanıcı Hakları</a><a href=\"/tr/kurumsal/yasal-uyari/\">Yasal Uyarı</a></div><div class=\"mob-kurum-cta\"><p class=\"mob-kurum-cta-text\">KVKK başvurusu için iletişim kanallarımızı kullanın.</p><a class=\"mob-kurum-cta-link\" href=\"/tr/iletisim/\">Başvuru</a></div></div>",
+    "en": "<div class=\"mob-kurum-wrap mob-kurum-legal\"><div class=\"mob-kurum-hero mob-kurum-hero-legal\"><span class=\"mob-kurum-hero-label\">KVKK</span><p class=\"mob-kurum-hero-title\">Protection of personal data</p></div><p class=\"mob-kurum-lead\">Under Turkish Personal Data Protection Law (KVKK), we take the necessary technical and administrative measures to protect your personal data.</p><div class=\"mob-kurum-section\"><h3>Processing purposes</h3><p class=\"mob-kurum-text\">Your data is processed only for legal obligations, responding to requests and complaints, running quote and order processes and service delivery; it is not shared with third parties without your consent.</p></div><div class=\"mob-kurum-section\"><h3>Data categories</h3><p class=\"mob-kurum-text\">Identity, contact, customer transaction and request/complaint data; limited website log data may be processed for defined periods and purposes.</p></div><div class=\"mob-kurum-section\"><h3>Your rights</h3><ul class=\"mob-kurum-list\"><li>Learn whether your data is processed</li><li>Request information, correction or deletion</li><li>Be informed about processing activities</li><li>Lodge a complaint</li></ul></div><p class=\"mob-kurum-text\">You may submit applications in writing or by registered electronic means; we respond within legal time limits.</p><div class=\"mob-kurum-nav\"><span class=\"mob-kurum-nav-label\">Related pages</span><a href=\"/en/kurumsal/gizlilik-politikasi/\">Privacy</a><a href=\"/en/kurumsal/kisisel-veriler/\">Personal Data</a><a href=\"/en/kurumsal/kullanici-haklari/\">User Rights</a><a href=\"/en/kurumsal/yasal-uyari/\">Legal Notice</a></div></div>",
+    "ar": "<div class=\"mob-kurum-wrap mob-kurum-legal\"><div class=\"mob-kurum-hero mob-kurum-hero-legal\"><span class=\"mob-kurum-hero-label\">KVKK</span><p class=\"mob-kurum-hero-title\">حماية البيانات الشخصية</p></div><p class=\"mob-kurum-lead\">بموجب قانون حماية البيانات الشخصية (KVKK) نتخذ التدابير التقنية والإدارية اللازمة لحماية بياناتك.</p><div class=\"mob-kurum-section\"><h3>أغراض المعالجة</h3><p class=\"mob-kurum-text\">تُعالج بياناتك فقط للالتزامات القانونية والرد على الطلبات والشكاوى وإدارة العروض والطلبات وتقديم الخدمة؛ لا تُشارك مع أطراف ثالثة دون موافقتك.</p></div><div class=\"mob-kurum-section\"><h3>فئات البيانات</h3><p class=\"mob-kurum-text\">الهوية والاتصال ومعاملات العملاء والطلبات/الشكاوى؛ قد تُعالج سجلات استخدام الموقع لفترات وأغراض محددة.</p></div><div class=\"mob-kurum-section\"><h3>حقوقك</h3><ul class=\"mob-kurum-list\"><li>معرفة ما إذا تُعالج بياناتك</li><li>طلب المعلومات أو التصحيح أو الحذف</li><li>الإبلاغ عن أنشطة المعالجة</li><li>تقديم شكوى</li></ul></div><p class=\"mob-kurum-text\">يمكنك تقديم الطلبات كتابياً أو إلكترونياً مسجلاً؛ نرد ضمن المدد القانونية.</p><div class=\"mob-kurum-nav\"><span class=\"mob-kurum-nav-label\">صفحات ذات صلة</span><a href=\"/ar/kurumsal/gizlilik-politikasi/\">الخصوصية</a><a href=\"/ar/kurumsal/kisisel-veriler/\">البيانات الشخصية</a><a href=\"/ar/kurumsal/kullanici-haklari/\">حقوق المستخدم</a><a href=\"/ar/kurumsal/yasal-uyari/\">إشعار قانوني</a></div></div>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 5,
+  "icon": "shield",
+  "title": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية"
+  },
+  "description": {
+    "tr": "KVKK: kişisel veri işleme amaçları, veri kategorileri, haklarınız ve başvuru yolları.",
+    "en": "KVKK: processing purposes, data categories, your rights and how to apply.",
+    "ar": "KVKK: أغراض المعالجة وفئات البيانات وحقوقك وطرق التقديم."
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, kişisel veriler, KVKK",
+    "en": "En Ofis Mobilyaları, personal data, KVKK",
+    "ar": "أن أوفيس للأثاث المكتبي, kisisel veriler, KVKK"
+  },
+  "update": "2026-06-02T03:50:52.252Z",
+  "date": "2026-05-19",
+  "bgimg": "hero.webp"
+}

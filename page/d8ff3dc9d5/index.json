@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Konferans ve Toplantı Salonu",
+    "en": "Konferans ve Toplanti Salonu",
+    "ar": "قاعة مؤتمرات واجتماعات"
+  },
+  "status": "play",
+  "category": "prj8mob01",
+  "id": "d8ff3dc9d5",
+  "path": "konferans-toplanti-salonu",
+  "description": {
+    "tr": "En Ofis Mobilyaları Konferans ve Toplantı Salonu referans uygulaması (Kurumsal). Gaziantep üretim, montaj dahil.",
+    "en": "En Ofis Mobilyaları Konferans ve Toplantı Salonu reference project (Corporate). Manufactured in Gaziantep, installation included.",
+    "ar": "أن أوفيس — قاعة مؤتمرات واجتماعات. مشروع مرجعي (شركة). إنتاج غازي عنتاب، التركيب مشمول."
+  },
+  "index": 4,
+  "icon": "architecture",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {
+    "sektor": "Kurumsal"
+  },
+  "title": {
+    "tr": "Konferans ve Toplantı Salonu | En Ofis Mobilyaları",
+    "en": "Konferans ve Toplanti Salonu | En Ofis Mobilyaları",
+    "ar": "قاعة مؤتمرات واجتماعات | أن أوفيس للأثاث المكتبي"
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, proje, referans, Konferans ve Toplantı Salonu, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, proje, referans, Konferans ve Toplantı Salonu, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, مشروع، مرجع, قاعة مؤتمرات واجتماعات, أثاث مكتبي غازي عنتاب"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 22px;\">Konferans ve Toplantı Salonu</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Kurumsal</p>\n<p style=\"font-size: 16px;\">Konferans koltukları, sunum masası ve yan sehpa düzeni ile çok amaçlı salon mobilyası. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/tr/iletisim/\">iletişim</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "en": "<h2 style=\"font-size: 22px;\">Konferans ve Toplantı Salonu</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Corporate</p>\n<p style=\"font-size: 16px;\">Konferans koltukları, sunum masası ve yan sehpa düzeni ile çok amaçlı salon mobilyası. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/en/contact/\">contact</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "ar": "<h2 style=\"font-size: 22px;\">قاعة مؤتمرات واجتماعات</h2>\n<p style=\"font-size: 16px;\"><strong>القطاع:</strong> شركة</p>\n<p style=\"font-size: 16px;\">كراسي مؤتمرات وطاولة عرض وطاولات جانبية؛ أثاث قاعة متعدد الأغراض. تصنيع وتركيب من أن أوفيس للأثاث المكتبي.</p>\n<p style=\"font-size: 15px;\">للمشاريع المماثلة اطلب عرضا عبر صفحة <a href=\"/ar/contact/\">اتصل بنا</a>.</p>"
+  },
+  "update": "2026-06-02T03:50:52.451Z",
+  "date": "2026-06-02",
+  "img": "index.webp"
+}

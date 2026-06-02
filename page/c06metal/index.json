@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Metal Dosya ve Soyunma Dolapları",
+    "en": "Metal Filing & Locker Cabinets",
+    "ar": "خزائن معدنية للملفات والملابس"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c06metal",
+  "externalUrl": "",
+  "path": "metal-dosya-ve-soyunma-dolaplari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Metal Dosya ve Soyunma Dolapları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Metal Filing & Locker Cabinets, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, خزائن معدنية للملفات والملابس, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Metal Dosya ve Soyunma Dolapları. 1 ürün — metal dosya ve soyunma dolapları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Metal Filing & Locker Cabinets. 1 products — metal filing and locker cabinets. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — خزائن معدنية للملفات والملابس. منتج واحد — خزائن معدنية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 5,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Metal Dosya ve Soyunma Dolapları | En Ofis Mobilyaları",
+    "en": "Metal Filing & Locker Cabinets | En Ofis Mobilyaları",
+    "ar": "خزائن معدنية للملفات والملابس | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Metal Dosya ve Soyunma Dolapları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Metal Dosya ve Soyunma Dolapları. 1 ürün — metal dosya ve soyunma dolapları. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Metal Filing & Locker Cabinets</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Metal Filing & Locker Cabinets. 1 products — metal filing and locker cabinets. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">خزائن معدنية للملفات والملابس</h2><p style=\"font-size: 16px;\">أن أوفيس — خزائن معدنية للملفات والملابس. منتج واحد — خزائن معدنية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.339Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

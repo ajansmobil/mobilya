@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Ürünlerimiz",
+    "en": "Our Products",
+    "ar": "منتجاتنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hs54qzyeyo",
+  "url": "",
+  "path": "urunler",
+  "index": 1,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [
+      "kpsg6z"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "En Ofis Mobilyaları ürün grupları: VIP makam masa, çalışma masası, toplantı masası, koltuk, dolap, eğitim donanımı ve daha fazlası.",
+    "en": "En Ofis Mobilyaları products grupları: VIP makam masa, çalışma masası, toplantı masası, koltuk, dolap, eğitim donanımı ve daha fazlası.",
+    "ar": "مجموعات منتجات أن أوفيس: مكاتب VIP، مكاتب عمل، طاولات اجتماعات، كراسي، خزائن، تجهيزات تعليمية والمزيد."
+  },
+  "desc": {},
+  "title": {
+    "tr": "Ürünlerimiz | En Ofis Mobilyaları",
+    "en": "Our Products | En Ofis Mobilyaları",
+    "ar": "منتجاتنا | أن أوفيس للأثاث المكتبي"
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, ürünler, ofis mobilya kataloğu, makam masa",
+    "en": "En Ofis Mobilyaları, ürünler, office furniture kataloğu, makam masa",
+    "ar": "أن أوفيس للأثاث المكتبي, urunler, أثاث مكتبي katalogu, مكتب تنفيذي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Ürünlerimiz</h2>\n<p style=\"font-size: 16px;\">13 ürün grubunda makam masasından konferans koltuğuna kadar premium ofis mobilyaları. Kategorilerimize aşağıdan göz atabilirsiniz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Our Products</h2>\n<p style=\"font-size: 16px;\">13 products category makam masasından konferans koltuğuna kadar premium office furnitureları. Kategorilerimize aşağıdan göz atabilirsiniz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">منتجاتنا</h2>\n<p style=\"font-size: 16px;\">13 منتج ضمن الفئة مكتب تنفيذيsindan konferans koltuguna kadar متميز أثاث مكتبيlari. Kategorilerimize asagidan goz atabilirsiniz.</p>"
+  },
+  "update": "2026-06-02T03:50:50.186Z",
+  "date": "2026-06-02",
+  "img": "index.webp"
+}

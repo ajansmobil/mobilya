@@ -1,0 +1,42 @@
+{
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "status": "play",
+  "id": "kalitepolitikamiz",
+  "path": "kalite-politikamiz",
+  "category": "",
+  "text": {
+    "tr": "<div class=\"mob-kurum-wrap\"><div class=\"mob-kurum-hero\"><span class=\"mob-kurum-hero-label\">Kalite</span><p class=\"mob-kurum-hero-title\">Üretimden montaja kadar aynı standart</p></div><p class=\"mob-kurum-lead\">Kalite politikamız; ulusal ve sektörel standartlara uygun üretim ve hammadde girişinden montaja kadar sürekli iyileştirme taahhüdüdür. Her siparişte ölçülebilir hedeflerle müşteri memnuniyetini izleriz.</p><div class=\"mob-kurum-grid\"><div class=\"mob-kurum-card\"><strong>Kontrol</strong><span>Giriş malzemesi ve ara üretimde ölçü ve görsel denetim.</span></div><div class=\"mob-kurum-card\"><strong>İzlenebilirlik</strong><span>Sipariş bazlı üretim takibi ve sevkiyat kayıtları.</span></div><div class=\"mob-kurum-card\"><strong>Güvenlik</strong><span>İş güvenliği eğitimleri ve saha montaj prosedürleri.</span></div><div class=\"mob-kurum-card\"><strong>Geri bildirim</strong><span>Teslim sonrası müşteri değerlendirmesi ve düzeltici faaliyet.</span></div></div><ul class=\"mob-kurum-list mob-kurum-list-check\"><li>Hammadde girişinde ve proses üretiminde kalite kontrol</li><li>Ölçülebilir hedeflerle müşteri memnuniyeti takibi</li><li>Çelik ve ahşap işçiliğinde kusursuz teslimat hedefi</li><li>Proje bazlı ölçü ve montaj koordinasyonu</li><li>Tedarik zincirinde izlenebilir süreç yönetimi</li><li>Personel eğitimi ve iş güvenliği uygulamaları</li></ul><p class=\"mob-kurum-text\">Ürünlerimiz standart referans ölçüleriyle sunulur; proje ve siparişe göre özelleştirme mümkündür. Montaj öncesi saha kontrolü kalite sistemimizin ayrılmaz parçasıdır.</p><div class=\"mob-kurum-highlight\"><span class=\"mob-kurum-highlight-label\">Taahhüdümüz</span> Her siparişte aynı kalite standardı — sürdürülebilir üretim disiplini.</div><div class=\"mob-kurum-cta\"><p class=\"mob-kurum-cta-text\">Kalite süreçlerimiz hakkında detaylı bilgi için iletişime geçin.</p><a class=\"mob-kurum-cta-link\" href=\"/tr/iletisim/\">İletişim</a></div></div>",
+    "en": "<div class=\"mob-kurum-wrap\"><div class=\"mob-kurum-hero\"><span class=\"mob-kurum-hero-label\">Quality</span><p class=\"mob-kurum-hero-title\">The same standard from production to installation</p></div><p class=\"mob-kurum-lead\">Our quality policy is a commitment to production in line with national and sector standards and continuous improvement from raw materials to installation. We track customer satisfaction with measurable targets on every order.</p><ul class=\"mob-kurum-list mob-kurum-list-check\"><li>Quality control at raw material intake and in-process production</li><li>Customer satisfaction tracking with measurable targets</li><li>Flawless delivery goal in steel and wood craftsmanship</li><li>Project-based dimension and installation coordination</li><li>Traceable process management in the supply chain</li><li>Staff training and occupational safety practices</li></ul><p class=\"mob-kurum-text\">Products are offered with standard reference dimensions; customization per project is available. Pre-installation site checks and post-delivery feedback are part of our quality system.</p><div class=\"mob-kurum-highlight\"><span class=\"mob-kurum-highlight-label\">Our commitment</span> The same quality standard on every order — sustainable production discipline.</div><div class=\"mob-kurum-cta\"><p class=\"mob-kurum-cta-text\">Contact us for details about our quality processes.</p><a class=\"mob-kurum-cta-link\" href=\"/en/contact/\">Contact</a></div></div>",
+    "ar": "<div class=\"mob-kurum-wrap\"><div class=\"mob-kurum-hero\"><span class=\"mob-kurum-hero-label\">الجودة</span><p class=\"mob-kurum-hero-title\">نفس المعيار من الإنتاج إلى التركيب</p></div><p class=\"mob-kurum-lead\">سياسة الجودة لدينا التزام بالإنتاج وفق المعايير الوطنية والقطاعية والتحسين المستمر من المواد الخام إلى التركيب. نتابع رضا العملاء بأهداف قابلة للقياس في كل طلب.</p><ul class=\"mob-kurum-list mob-kurum-list-check\"><li>مراقبة الجودة عند دخول المواد وفي الإنتاج</li><li>متابعة رضا العملاء بأهداف قابلة للقياس</li><li>هدف تسليم خالٍ من العيوب في الصلب والخشب</li><li>تنسيق الأبعاد والتركيب حسب المشروع</li><li>إدارة عمليات قابلة للتتبع في سلسلة التوريد</li><li>تدريب الموظفين وممارسات السلامة المهنية</li></ul><p class=\"mob-kurum-text\">تُعرض المنتجات بأبعاد مرجعية قياسية؛ التخصيص حسب المشروع متاح. فحص الموقع قبل التركيب والملاحظات بعد التسليم جزء من نظام الجودة.</p><div class=\"mob-kurum-highlight\"><span class=\"mob-kurum-highlight-label\">التزامنا</span> نفس معيار الجودة في كل طلب — انضباط إنتاج مستدام.</div><div class=\"mob-kurum-cta\"><p class=\"mob-kurum-cta-text\">تواصل معنا للتفاصيل حول عمليات الجودة.</p><a class=\"mob-kurum-cta-link\" href=\"/ar/contact/\">اتصل بنا</a></div></div>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 3,
+  "icon": "verified",
+  "title": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "description": {
+    "tr": "Kalite politikası: standartlara uygun üretim, izlenebilir süreçler, montaj öncesi saha kontrolü ve sürekli iyileştirme.",
+    "en": "Quality policy: standards-compliant production, traceable processes and continuous improvement.",
+    "ar": "سياسة الجودة: إنتاج وفق المعايير، عمليات قابلة للتتبع وتحسين مستمر."
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, kalite politikası, üretim standardı",
+    "en": "En Ofis Mobilyaları, quality policy, üretim standardı",
+    "ar": "أن أوفيس للأثاث المكتبي, سياسة الجودة, تصنيع standardi"
+  },
+  "update": "2026-06-02T03:50:52.230Z",
+  "date": "2026-05-19",
+  "bgimg": "hero.webp"
+}

@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Yönetici ve Çalışma Koltukları",
+    "en": "Executive & Task Chairs",
+    "ar": "كراسي الإدارة والعمل"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c10yonetici",
+  "externalUrl": "",
+  "path": "yonetici-ve-calisma-koltuklari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Yönetici ve Çalışma Koltukları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Executive & Task Chairs, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, كراسي الإدارة والعمل, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Yönetici ve Çalışma Koltukları. Ofis çalışanları ve yöneticiler için koltuk serileri. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Executive & Task Chairs. Chair series for office staff and managers. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — كراسي الإدارة والعمل. سلاسل كراسي لموظفي المكاتب والمديرين. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 9,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Yönetici ve Çalışma Koltukları | En Ofis Mobilyaları",
+    "en": "Executive & Task Chairs | En Ofis Mobilyaları",
+    "ar": "كراسي الإدارة والعمل | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yönetici ve Çalışma Koltukları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Yönetici ve Çalışma Koltukları. Ofis çalışanları ve yöneticiler için koltuk serileri. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Executive & Task Chairs</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Executive & Task Chairs. Chair series for office staff and managers. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">كراسي الإدارة والعمل</h2><p style=\"font-size: 16px;\">أن أوفيس — كراسي الإدارة والعمل. سلاسل كراسي لموظفي المكاتب والمديرين. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.375Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

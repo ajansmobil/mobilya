@@ -1,0 +1,199 @@
+{
+  "name": "Kurumsal",
+  "path": "kurumsal",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About Us",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0,
+      "icon": "info",
+      "description": {
+        "tr": "En Ofis Mobilyaları: 2012'den beri Gaziantep'te ofis mobilyası üretimi, 20.000 m² tesis, kamu ve özel sektör projeleri, keşiften montaja A–Z hizmet.",
+        "en": "En Ofis Mobilyaları: office furniture in Gaziantep since 2012, 20,000 m² facility, public and private projects, end-to-end service.",
+        "ar": "أن أوفيس: إنتاج أثاث مكتبي في غازي عنتاب منذ 2012، منشأة 20.000 م²، مشاريع حكومية وخاصة، خدمة شاملة."
+      }
+    },
+    {
+      "name": {
+        "tr": "Misyonumuz",
+        "en": "Our Mission",
+        "ar": "مهمتنا"
+      },
+      "status": "play",
+      "id": "misyon",
+      "path": "misyonumuz",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1,
+      "icon": "flag",
+      "description": {
+        "tr": "Misyonumuz: modern ofis mobilyaları ile çalışma alanlarına değer; kalite, güven, ustalık ve iş birliği ilkeleri.",
+        "en": "Our mission: lasting value through modern office furniture; quality, trust, craftsmanship and partnership.",
+        "ar": "مهمتنا: قيمة دائمة بأثاث مكتبي حديث؛ جودة وثقة وحرفية وشراكة."
+      }
+    },
+    {
+      "name": {
+        "tr": "Vizyonumuz",
+        "en": "Our Vision",
+        "ar": "رؤيتنا"
+      },
+      "status": "play",
+      "id": "vizyon",
+      "path": "vizyonumuz",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2,
+      "icon": "visibility",
+      "description": {
+        "tr": "Vizyonumuz: sektörde öncü marka, Ar-Ge ve tasarım yatırımı, geleceğin esnek ofis çözümleri.",
+        "en": "Our vision: leading brand, growing R&D and design, modular offices for the future of work.",
+        "ar": "رؤيتنا: علامة رائدة، تنمية البحث والتصميم، حلول مكاتب مرنة للمستقبل."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız",
+        "en": "Quality Policy",
+        "ar": "سياسة الجودة"
+      },
+      "status": "play",
+      "id": "kalitepolitikamiz",
+      "path": "kalite-politikamiz",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3,
+      "icon": "verified",
+      "description": {
+        "tr": "Kalite politikası: standartlara uygun üretim, izlenebilir süreçler, montaj öncesi saha kontrolü ve sürekli iyileştirme.",
+        "en": "Quality policy: standards-compliant production, traceable processes and continuous improvement.",
+        "ar": "سياسة الجودة: إنتاج وفق المعايير، عمليات قابلة للتتبع وتحسين مستمر."
+      }
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası",
+        "en": "Privacy Policy",
+        "ar": "سياسة الخصوصية"
+      },
+      "status": "play",
+      "id": "gizlilikpolitikasi",
+      "path": "gizlilik-politikasi",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4,
+      "icon": "privacy_tip",
+      "description": {
+        "tr": "Gizlilik politikası: çerezler, form verileri, saklama süreleri ve veri güvenliği hakkında bilgilendirme.",
+        "en": "Privacy policy: cookies, form data, retention and data security information.",
+        "ar": "سياسة الخصوصية: ملفات الارتباط وبيانات النماذج والأمان."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "البيانات الشخصية"
+      },
+      "status": "play",
+      "id": "kisiselveriler",
+      "path": "kisisel-veriler",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5,
+      "icon": "shield",
+      "description": {
+        "tr": "KVKK: kişisel veri işleme amaçları, veri kategorileri, haklarınız ve başvuru yolları.",
+        "en": "KVKK: processing purposes, data categories, your rights and how to apply.",
+        "ar": "KVKK: أغراض المعالجة وفئات البيانات وحقوقك وطرق التقديم."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları",
+        "en": "User Rights",
+        "ar": "حقوق المستخدم"
+      },
+      "status": "play",
+      "id": "kullanicahaklari",
+      "path": "kullanici-haklari",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 6,
+      "icon": "gavel",
+      "description": {
+        "tr": "Kullanıcı hakları: site içeriği kullanımı, sorumluluk sınırları ve şikayet başvuruları.",
+        "en": "User rights: content use, limitation of liability and complaints.",
+        "ar": "حقوق المستخدم: استخدام المحتوى وحدود المسؤولية والشكاوى."
+      }
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı",
+        "en": "Legal Notice",
+        "ar": "إشعار قانوني"
+      },
+      "status": "play",
+      "id": "yasaluyari",
+      "path": "yasal-uyari",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 7,
+      "icon": "balance",
+      "description": {
+        "tr": "Yasal uyarı: site kullanımı, ürün görselleri, fiyat bilgisi ve geçerli Türk hukuku.",
+        "en": "Legal notice: site use, product images, pricing and applicable Turkish law.",
+        "ar": "إشعار قانوني: استخدام الموقع والصور والقانون التركي."
+      }
+    }
+  ],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4"
+    ],
+    "footer": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Üniversite Yurt Mobilya Uygulaması",
+    "en": "University Dormitory Furniture Project",
+    "ar": "مشروع أثاث سكن جامعي"
+  },
+  "status": "play",
+  "category": "prj8mob01",
+  "id": "603137886e",
+  "path": "universite-yurt-mobilya",
+  "description": {
+    "tr": "En Ofis Mobilyaları Üniversite Yurt Mobilya Uygulaması referans uygulaması (Eğitim). Gaziantep üretim, montaj dahil.",
+    "en": "En Ofis Mobilyaları University Dormitory Furniture Project reference project (Education). Manufactured in Gaziantep, installation included.",
+    "ar": "أن أوفيس — مشروع أثاث سكن جامعي. مشروع مرجعي (تعليم). إنتاج غازي عنتاب، التركيب مشمول."
+  },
+  "index": 2,
+  "icon": "architecture",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {
+    "sektor": "Eğitim"
+  },
+  "title": {
+    "tr": "Üniversite Yurt Mobilya Uygulaması | En Ofis Mobilyaları",
+    "en": "University Dormitory Furniture Project | En Ofis Mobilyaları",
+    "ar": "مشروع أثاث سكن جامعي | أن أوفيس للأثاث المكتبي"
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, proje, referans, Üniversite Yurt Mobilya Uygulaması, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, proje, referans, University Dormitory Furniture Project, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, مشروع، مرجع, مشروع أثاث سكن جامعي, أثاث مكتبي غازي عنتاب"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 22px;\">Üniversite Yurt Mobilya Uygulaması</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Eğitim</p>\n<p style=\"font-size: 16px;\">Yurt odaları ve ortak çalışma alanları için ranza, çalışma masası ve dolap çözümleri. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/tr/iletisim/\">iletişim</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "en": "<h2 style=\"font-size: 22px;\">University Dormitory Furniture Project</h2>\n<p style=\"font-size: 16px;\"><strong>Sektör:</strong> Eğitim</p>\n<p style=\"font-size: 16px;\">Yurt odaları ve ortak çalışma alanları için ranza, çalışma masası ve dolap çözümleri. En Ofis Mobilyaları tarafından üretim ve montaj hizmeti verilmiştir.</p>\n<p style=\"font-size: 15px;\">Benzer proje talepleriniz için <a href=\"/en/contact/\">contact</a> sayfamızdan teklif alabilirsiniz.</p>",
+    "ar": "<h2 style=\"font-size: 22px;\">مشروع أثاث سكن جامعي</h2>\n<p style=\"font-size: 16px;\"><strong>القطاع:</strong> تعليم</p>\n<p style=\"font-size: 16px;\">حلول أسرة وطاولات عمل وخزائن لغرف السكن الجامعي ومناطق الدراسة المشتركة. تصنيع وتركيب من أن أوفيس للأثاث المكتبي.</p>\n<p style=\"font-size: 15px;\">للمشاريع المماثلة اطلب عرضا عبر صفحة <a href=\"/ar/contact/\">اتصل بنا</a>.</p>"
+  },
+  "update": "2026-06-02T03:50:52.432Z",
+  "date": "2026-06-02",
+  "img": "index.webp"
+}

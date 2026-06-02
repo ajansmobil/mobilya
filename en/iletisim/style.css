@@ -1,7 +1,7 @@
 
  
 
-  .t7efy {
+  .n4u07 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -9,7 +9,7 @@
     justify-content: center;
   }
 
-  .t7efytitle {
+  .n4u07title {
     width: 100%;
     display: flex;
     align-items: center;
@@ -18,12 +18,12 @@
     z-index: 1;
   }
 
-  .t7efytitle:has(.t7efytitlebodylang:empty),
-  .t7efytitle:has(.t7efytitlebodylang ul:empty) {
+  .n4u07title:has(.n4u07titlebodylang:empty),
+  .n4u07title:has(.n4u07titlebodylang ul:empty) {
     display: none;
   }
 
-  .t7efytitlebody {
+  .n4u07titlebody {
     color: #ffffff;
     width: var(--max);
     display: flex;
@@ -31,34 +31,34 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .t7efytitlebodytitle {
+  .n4u07titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .t7efytitlebodylang {
+  .n4u07titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .t7efytitlebodylang:empty,
-  .t7efytitlebodylang ul:empty {
+  .n4u07titlebodylang:empty,
+  .n4u07titlebodylang ul:empty {
     display: none;
   }
 
-  .t7efytitlebodylang ul {
+  .n4u07titlebodylang ul {
     display: flex;
     gap: 8px;
   }
 
   
-  .t7efytitlebodylang li {
+  .n4u07titlebodylang li {
     list-style: none;
   }
 
-  .t7efytitlebodylang li a {
+  .n4u07titlebodylang li a {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -75,13 +75,13 @@
     cursor: pointer;
   }
 
-  .t7efytitlebodylang li a:hover {
+  .n4u07titlebodylang li a:hover {
     border-color: #ffffff;
     background: #DE6D26;
     color: #ffffff !important;
   }
 
-  .t7efybody {
+  .n4u07body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -90,7 +90,7 @@
     position: relative;
   }
 
-  .t7efybody > a {
+  .n4u07body > a {
     display: inline-flex;
     align-items: center;
     max-width: min(90vw, 320px);
@@ -99,7 +99,7 @@
     overflow: hidden;
   }
 
-  .t7efybodylogo {
+  .n4u07bodylogo {
     display: block;
     width: auto;
     height: auto;
@@ -109,7 +109,7 @@
   }
 
   
-  .t7efy-mobile-toggle {
+  .n4u07-mobile-toggle {
     display: none;
     background: #1e3046;
     color: #ffffff;
@@ -123,18 +123,18 @@
     right: 0;
   }
 
-  .t7efy-mobile-toggle span {
+  .n4u07-mobile-toggle span {
     font-size: 24px;
   }
 
-  .t7efymenu {
+  .n4u07menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .t7efymenulist {
+  .n4u07menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -143,7 +143,7 @@
     display: flex;
   }
 
-  .t7efymenubody {
+  .n4u07menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -151,7 +151,7 @@
     justify-content: center;
   }
 
-  .t7efymenulist ul {
+  .n4u07menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -160,7 +160,7 @@
     padding: 0;
   }
 
-  .t7efymenulist ul a {
+  .n4u07menulist ul a {
     padding: 10px 15px;
     font-size: 16px;
     color: #ffffff !important;
@@ -173,40 +173,40 @@
     margin: 0 2px;
   }
 
-  .t7efymenulist ul a:hover {
+  .n4u07menulist ul a:hover {
     background-color: #DE6D26;
     border-radius: 5px;
     color: #ffffff !important;
     cursor: pointer;
   }
 
-  .t7efymenulist ul a.t7efy-menu-list-active {
+  .n4u07menulist ul a.n4u07-menu-list-active {
     color: #ffffff !important;
   }
 
-  .t7efy-menu-list-active {
+  .n4u07-menu-list-active {
     background-color: #DE6D26;
     border-radius: 5px;
     color: #ffffff !important;
     cursor: pointer;
   }
 
-  .t7efymenulistbody {
+  .n4u07menulistbody {
     width: 100%;
   }
 
-  .t7efylanguages-mobile {
+  .n4u07languages-mobile {
     display: none;
     padding-top: 15px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
   }
 
-  .t7efylanguages-mobile:empty,
-  .t7efylanguages-mobile ul:empty {
+  .n4u07languages-mobile:empty,
+  .n4u07languages-mobile ul:empty {
     display: none !important;
   }
 
-  .t7efylanguages-mobile ul {
+  .n4u07languages-mobile ul {
     display: flex;
     gap: 8px;
     margin: 0;
@@ -216,7 +216,7 @@
   }
 
   
-  .t7efylanguages-mobile li {
+  .n4u07languages-mobile li {
     list-style: none;
     border: 1px solid color-mix(in srgb, #ffffff 35%, transparent);
     padding: 0;
@@ -230,7 +230,7 @@
     transition: border-color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
   }
 
-  .t7efylanguages-mobile li a {
+  .n4u07languages-mobile li a {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -245,28 +245,28 @@
     cursor: pointer;
   }
 
-  .t7efylanguages-mobile li:hover {
+  .n4u07languages-mobile li:hover {
     background-color: #DE6D26;
     border-color: #ffffff;
     box-shadow: 0 2px 8px color-mix(in srgb, #ffffff 25%, transparent);
   }
 
-  .t7efylanguages-mobile li:hover a {
+  .n4u07languages-mobile li:hover a {
     color: #ffffff !important;
   }
 
   
-  .t7efy-menu-backdrop {
+  .n4u07-menu-backdrop {
     display: none;
   }
 
   @media screen and (min-width: 1024px) {
-    .t7efybodylogo {
+    .n4u07bodylogo {
       max-height: 100px;
       max-width: 100%;
     }
 
-    .t7efytitle {
+    .n4u07title {
     margin-bottom: -30px;
   }
 
@@ -274,29 +274,29 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .t7efybody {
+    .n4u07body {
       width: calc(100% - 20px);
       padding: 0 10px;
       justify-content: center;
     }
 
-    .t7efymenulist ul {
+    .n4u07menulist ul {
       flex-direction: row;
     }
 
-    .t7efybodylogo {
+    .n4u07bodylogo {
       max-width: min(50vw, 220px);
       max-height: 80px;
     }
 
-    .t7efytitlebody {
+    .n4u07titlebody {
       flex-direction: column;
       gap: 10px;
       align-items: center;
       display: none;
     }
 
-    .t7efytitlebodytitle {
+    .n4u07titlebodytitle {
       text-align: center;
       font-size: 14px;
     }
@@ -304,27 +304,27 @@
 
     
   @media screen and (max-width: 768px) {
-    .t7efytitlebodylang {
+    .n4u07titlebodylang {
       display: none;
     }
 
-    .t7efybody {
+    .n4u07body {
       width: calc(100% - 20px);
       padding: 0 10px;
       justify-content: space-between;
     }
 
-    .t7efy-mobile-toggle {
+    .n4u07-mobile-toggle {
       display: inline-flex;
     }
 
-    .t7efybodylogo {
+    .n4u07bodylogo {
       max-width: min(40vw, 180px);
       max-height: 70px;
     }
 
     
-    .t7efy-menu-backdrop {
+    .n4u07-menu-backdrop {
       display: block;
       position: fixed;
       inset: 0;
@@ -337,14 +337,14 @@
       cursor: pointer;
     }
 
-    .t7efy.t7efymenu-open .t7efy-menu-backdrop {
+    .n4u07.n4u07menu-open .n4u07-menu-backdrop {
       opacity: 1;
       visibility: visible;
       pointer-events: auto;
     }
 
     
-    .t7efymenubody {
+    .n4u07menubody {
       position: fixed;
       top: 0;
       right: 0;
@@ -364,22 +364,22 @@
       overflow-y: auto;
     }
 
-    .t7efy.t7efymenu-open .t7efymenubody {
+    .n4u07.n4u07menu-open .n4u07menubody {
       transform: translateX(0);
     }
 
-    .t7efymenu {
+    .n4u07menu {
       width: 100%;
       flex-direction: column;
       height: 100%;
     }
 
-    .t7efymenulistbody {
+    .n4u07menulistbody {
       flex: 1;
       overflow-y: auto;
     }
 
-    .t7efymenulist {
+    .n4u07menulist {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -389,12 +389,12 @@
       box-shadow: none;
     }
 
-    .t7efy.t7efymenu-open .t7efymenulist {
+    .n4u07.n4u07menu-open .n4u07menulist {
       display: flex;
     }
 
     
-    .t7efy.t7efymenu-open .t7efylanguages-mobile {
+    .n4u07.n4u07menu-open .n4u07languages-mobile {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -406,16 +406,16 @@
       flex-shrink: 0;
     }
 
-    .t7efy.t7efymenu-open .t7efylanguages-mobile ul {
+    .n4u07.n4u07menu-open .n4u07languages-mobile ul {
       justify-content: center;
     }
 
-    .t7efymenulist ul {
+    .n4u07menulist ul {
       flex-direction: column;
       gap: 0;
     }
 
-    .t7efymenulist ul a {
+    .n4u07menulist ul a {
       font-size: 15px;
       width: 100%;
       padding: 14px 12px;
@@ -426,22 +426,22 @@
       box-sizing: border-box;
     }
 
-    .t7efymenulist ul a:last-child {
+    .n4u07menulist ul a:last-child {
       border-bottom: none;
     }
 
-    .t7efymenulist ul a:hover {
+    .n4u07menulist ul a:hover {
       background-color: #DE6D26;
       border-radius: 0;
     }
 
-    .t7efytitlebodytitle {
+    .n4u07titlebodytitle {
       font-size: 12px;
     }
   }
 
 
-  .bm7ur {
+  .o5imd {
     width: 100%;
     margin: 48px auto 32px auto;
     display: flex;
@@ -450,14 +450,14 @@
     position: relative;
   }
 
-  .bm7urcontainertitle {
+  .o5imdcontainertitle {
     font-size: 28px;
     font-weight: bold;
     color: #333;
     margin: 0 0 20px 0;
   }
 
-  .bm7urcontainerlist {
+  .o5imdcontainerlist {
     padding: 10px;
     display: flex;
     border-radius: 8px;
@@ -466,26 +466,26 @@
     transition: background-color 0.3s ease;
   }
 
-  .bm7urcontainerlist>div {
+  .o5imdcontainerlist>div {
     display: flex;
     align-items: center;
     font-size: 20px;
     color: #444;
   }
 
-  .bm7urcontainerlist:hover {
+  .o5imdcontainerlist:hover {
     background-color: #f9f9f9;
     border-bottom-color: #1e3046;
   }
 
-  .bm7urcontainer {
+  .o5imdcontainer {
     display: flex;
     flex-direction: column;
     gap: 15px;
     padding: 20px;
   }
 
-  .bm7urcontainerbody {
+  .o5imdcontainerbody {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -495,7 +495,7 @@
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
 
-  .bm7urbody {
+  .o5imdbody {
     width: calc(var(--max) - 40px);
     background-color: #ebebeb;
     border: 1px solid #dedede;
@@ -503,19 +503,19 @@
     padding: 20px;
   }
 
-  .bm7urcontainerlist>span {
+  .o5imdcontainerlist>span {
     font-size: 24px;
     color: #1e3046;
   }
 
   @media screen and (max-width: 1024px) {
-    .bm7urbody {
+    .o5imdbody {
       width: 100%;
       padding: 20px;
       flex-direction: column;
     }
 
-    .bm7urcontainerbody {
+    .o5imdcontainerbody {
       padding: 15px;
     }
   }
@@ -545,13 +545,13 @@
       transform: scale(1);
     }
   }
-  .ddq83-body {
+  .shw9f-body {
     display: flex;
     align-items: center;
     justify-content: center;
     width: var(--max);
   }
-  .ddq83-body-chile {
+  .shw9f-body-chile {
     padding: 20px;
     display: flex;
     align-items: top;
@@ -559,10 +559,10 @@
     flex-direction: column;
     position: absolute;
   }
-  .ddq83-body-chile > div {
+  .shw9f-body-chile > div {
     width: 100% !important;
   }
-  .ddq832 {
+  .shw9f2 {
     margin-top: 10px;
     margin-bottom: 10px;
     position: relative;
@@ -573,23 +573,23 @@
     overflow: hidden;
     cursor: pointer;
   }
-  .ddq83 {
+  .shw9f {
     display: flex;
     flex-direction: column;
   }
-  .ddq83 > svg {
+  .shw9f > svg {
     width: 100vw;
   }
-  .ddq83botton {
+  .shw9fbotton {
     transform: scaleY(-1);
     margin-bottom: -1px;
   }
  
-  .ddq83-svg {
+  .shw9f-svg {
     fill: #fff;
   }
-  .ddq83-bg {
-    background-image: url("/img/bi4hta/map.jpg?v=v4ee4") !important;
+  .shw9f-bg {
+    background-image: url("/img/bi4hta/map.jpg?v=w55e5") !important;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -736,7 +736,7 @@
   }
 
 
-  .is3rv-chatbot-wrap {
+  .rfen3-chatbot-wrap {
     position: fixed;
     bottom: 28px;
     right: 28px;
@@ -746,7 +746,7 @@
     line-height: 1.45;
   }
 
-  .is3rv-chatbot-fab {
+  .rfen3-chatbot-fab {
     position: relative;
     border: none;
     border-radius: 999px;
@@ -761,18 +761,18 @@
     padding: 0;
   }
 
-  .is3rv-chatbot-fab-inner {
+  .rfen3-chatbot-fab-inner {
     display: flex;
     align-items: center;
     gap: 10px;
     padding: 14px 18px 14px 16px;
   }
 
-  .is3rv-chatbot-fab:hover .is3rv-chatbot-fab-icon {
+  .rfen3-chatbot-fab:hover .rfen3-chatbot-fab-icon {
     transform: scale(1.06);
   }
 
-  .is3rv-chatbot-fab-icon {
+  .rfen3-chatbot-fab-icon {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -782,48 +782,48 @@
     transition: transform 0.25s ease;
   }
 
-  .is3rv-chatbot-fab-label {
+  .rfen3-chatbot-fab-label {
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 0.01em;
     white-space: nowrap;
   }
 
-  .is3rv-chatbot-fab:hover {
+  .rfen3-chatbot-fab:hover {
     transform: translateY(-2px);
     box-shadow: 0 12px 32px rgba(30, 48, 70, 0.28);
   }
 
-  .is3rv-chatbot-fab.is3rv-chatbot-fab-open {
+  .rfen3-chatbot-fab.rfen3-chatbot-fab-open {
     background: #1E3046;
   }
 
-  .is3rv-chatbot-fab.is3rv-chatbot-fab-open .is3rv-chatbot-fab-pulse {
+  .rfen3-chatbot-fab.rfen3-chatbot-fab-open .rfen3-chatbot-fab-pulse {
     animation: none;
     opacity: 0;
   }
 
-  .is3rv-chatbot-fab.is3rv-chatbot-fab-open .is3rv-chatbot-fab-icon {
-    animation: is3rvChatbotFabIconPop 0.35s ease;
+  .rfen3-chatbot-fab.rfen3-chatbot-fab-open .rfen3-chatbot-fab-icon {
+    animation: rfen3ChatbotFabIconPop 0.35s ease;
   }
 
-  @keyframes is3rvChatbotFabIconPop {
+  @keyframes rfen3ChatbotFabIconPop {
     0% { transform: scale(0.85); }
     60% { transform: scale(1.08); }
     100% { transform: scale(1); }
   }
 
-  .is3rv-chatbot-fab-pulse {
+  .rfen3-chatbot-fab-pulse {
     position: absolute;
     inset: -4px;
     border: 2px solid #DE6D26;
     border-radius: 999px;
-    animation: is3rvChatbotPulse 2.4s ease-out infinite;
+    animation: rfen3ChatbotPulse 2.4s ease-out infinite;
     pointer-events: none;
     opacity: 0.65;
   }
 
-  @keyframes is3rvChatbotPulse {
+  @keyframes rfen3ChatbotPulse {
     0% {
       transform: scale(1);
       opacity: 0.65;
@@ -834,7 +834,7 @@
     }
   }
 
-  .is3rv-chatbot-panel {
+  .rfen3-chatbot-panel {
     display: flex;
     position: absolute;
     bottom: calc(100% + 14px);
@@ -860,7 +860,7 @@
       visibility 0s linear 0.34s;
   }
 
-  .is3rv-chatbot-panel.is3rv-chatbot-open {
+  .rfen3-chatbot-panel.rfen3-chatbot-open {
     visibility: visible;
     opacity: 1;
     pointer-events: auto;
@@ -871,41 +871,41 @@
       visibility 0s linear 0s;
   }
 
-  .is3rv-chatbot-header {
+  .rfen3-chatbot-header {
     position: relative;
     background: linear-gradient(135deg, #1E3046 0%, #152A3D 100%);
     color: #FFFFFF;
     flex-shrink: 0;
   }
 
-  .is3rv-chatbot-header-accent {
+  .rfen3-chatbot-header-accent {
     height: 3px;
     background: linear-gradient(90deg, #DE6D26 0%, #152A3D 50%, #DE6D26 100%);
     background-size: 200% 100%;
     width: 100%;
-    animation: is3rvChatbotAccentSlide 3s ease-in-out infinite;
+    animation: rfen3ChatbotAccentSlide 3s ease-in-out infinite;
   }
 
-  @keyframes is3rvChatbotAccentSlide {
+  @keyframes rfen3ChatbotAccentSlide {
     0%, 100% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
   }
 
-  .is3rv-chatbot-header-row {
+  .rfen3-chatbot-header-row {
     display: flex;
     align-items: center;
     gap: 12px;
     padding: 16px 16px 14px;
   }
 
-  .is3rv-chatbot-avatar {
+  .rfen3-chatbot-avatar {
     position: relative;
     width: 46px;
     height: 46px;
     flex-shrink: 0;
   }
 
-  .is3rv-chatbot-avatar-icon {
+  .rfen3-chatbot-avatar-icon {
     width: 100%;
     height: 100%;
     border-radius: 12px;
@@ -918,7 +918,7 @@
     box-sizing: border-box;
   }
 
-  .is3rv-chatbot-status-dot {
+  .rfen3-chatbot-status-dot {
     position: absolute;
     bottom: -2px;
     right: -2px;
@@ -928,20 +928,20 @@
     background: #4caf50;
     border: 2px solid #1E3046;
     box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.35);
-    animation: is3rvChatbotStatusPulse 2s ease-in-out infinite;
+    animation: rfen3ChatbotStatusPulse 2s ease-in-out infinite;
   }
 
-  @keyframes is3rvChatbotStatusPulse {
+  @keyframes rfen3ChatbotStatusPulse {
     0%, 100% { box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.35); }
     50% { box-shadow: 0 0 0 5px rgba(76, 175, 80, 0.15); }
   }
 
-  .is3rv-chatbot-header-info {
+  .rfen3-chatbot-header-info {
     flex: 1;
     min-width: 0;
   }
 
-  .is3rv-chatbot-title {
+  .rfen3-chatbot-title {
     margin: 0;
     font-size: 15px;
     font-weight: 700;
@@ -951,7 +951,7 @@
     color: #FFFFFF;
   }
 
-  .is3rv-chatbot-subtitle {
+  .rfen3-chatbot-subtitle {
     margin: 4px 0 0;
     font-size: 12px;
     opacity: 0.88;
@@ -960,13 +960,13 @@
     gap: 6px;
   }
 
-  .is3rv-chatbot-subtitle-text {
+  .rfen3-chatbot-subtitle-text {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
 
-  .is3rv-chatbot-close {
+  .rfen3-chatbot-close {
     background: rgba(255, 255, 255, 0.12);
     border: none;
     color: #FFFFFF;
@@ -981,16 +981,16 @@
     flex-shrink: 0;
   }
 
-  .is3rv-chatbot-close:hover {
+  .rfen3-chatbot-close:hover {
     background: rgba(255, 255, 255, 0.22);
     transform: scale(1.06);
   }
 
-  .is3rv-chatbot-close:active {
+  .rfen3-chatbot-close:active {
     transform: scale(0.94);
   }
 
-  .is3rv-chatbot-messages {
+  .rfen3-chatbot-messages {
     flex: 1;
     min-height: 240px;
     max-height: 360px;
@@ -1004,16 +1004,16 @@
     scroll-behavior: smooth;
   }
 
-  .is3rv-chatbot-messages::-webkit-scrollbar {
+  .rfen3-chatbot-messages::-webkit-scrollbar {
     width: 6px;
   }
 
-  .is3rv-chatbot-messages::-webkit-scrollbar-thumb {
+  .rfen3-chatbot-messages::-webkit-scrollbar-thumb {
     background: rgba(30, 48, 70, 0.18);
     border-radius: 6px;
   }
 
-  .is3rv-chatbot-bubble {
+  .rfen3-chatbot-bubble {
     max-width: 86%;
     padding: 11px 14px;
     border-radius: 14px;
@@ -1021,10 +1021,10 @@
     line-height: 1.5;
     word-break: break-word;
     white-space: pre-wrap;
-    animation: is3rvChatbotBubbleIn 0.38s cubic-bezier(0.22, 1, 0.36, 1) both;
+    animation: rfen3ChatbotBubbleIn 0.38s cubic-bezier(0.22, 1, 0.36, 1) both;
   }
 
-  @keyframes is3rvChatbotBubbleIn {
+  @keyframes rfen3ChatbotBubbleIn {
     from {
       opacity: 0;
       transform: translateY(10px) scale(0.97);
@@ -1035,11 +1035,11 @@
     }
   }
 
-  .is3rv-chatbot-bubble-user {
-    animation-name: is3rvChatbotBubbleInUser;
+  .rfen3-chatbot-bubble-user {
+    animation-name: rfen3ChatbotBubbleInUser;
   }
 
-  @keyframes is3rvChatbotBubbleInUser {
+  @keyframes rfen3ChatbotBubbleInUser {
     from {
       opacity: 0;
       transform: translateY(10px) translateX(8px) scale(0.97);
@@ -1050,15 +1050,15 @@
     }
   }
 
-  .is3rv-chatbot-bubble-noanim {
+  .rfen3-chatbot-bubble-noanim {
     animation: none !important;
   }
 
-  .is3rv-chatbot-bubble-noanim .is3rv-chatbot-product-card {
+  .rfen3-chatbot-bubble-noanim .rfen3-chatbot-product-card {
     animation: none !important;
   }
 
-  .is3rv-chatbot-bubble-bot {
+  .rfen3-chatbot-bubble-bot {
     align-self: flex-start;
     background: #FFFFFF;
     color: #1E3046;
@@ -1068,30 +1068,30 @@
     box-shadow: 0 2px 8px rgba(30, 48, 70, 0.06);
   }
 
-  .is3rv-chatbot-bubble-rich {
+  .rfen3-chatbot-bubble-rich {
     max-width: 94%;
     padding: 12px 12px 10px;
     white-space: normal;
   }
 
-  .is3rv-chatbot-bubble-text {
+  .rfen3-chatbot-bubble-text {
     font-size: 13px;
     line-height: 1.5;
     margin-bottom: 10px;
   }
 
-  .is3rv-chatbot-bubble-text:last-child {
+  .rfen3-chatbot-bubble-text:last-child {
     margin-bottom: 0;
   }
 
-  .is3rv-chatbot-product-list {
+  .rfen3-chatbot-product-list {
     display: flex;
     flex-direction: column;
     gap: 8px;
     margin-top: 4px;
   }
 
-  .is3rv-chatbot-product-card {
+  .rfen3-chatbot-product-card {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -1105,16 +1105,16 @@
     cursor: pointer;
     transition: border-color 0.22s ease, background 0.22s ease, transform 0.22s ease, box-shadow 0.22s ease;
     box-sizing: border-box;
-    animation: is3rvChatbotCardIn 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
+    animation: rfen3ChatbotCardIn 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
   }
 
-  .is3rv-chatbot-product-card:nth-child(1) { animation-delay: 0.04s; }
-  .is3rv-chatbot-product-card:nth-child(2) { animation-delay: 0.1s; }
-  .is3rv-chatbot-product-card:nth-child(3) { animation-delay: 0.16s; }
-  .is3rv-chatbot-product-card:nth-child(4) { animation-delay: 0.22s; }
-  .is3rv-chatbot-product-card:nth-child(5) { animation-delay: 0.28s; }
+  .rfen3-chatbot-product-card:nth-child(1) { animation-delay: 0.04s; }
+  .rfen3-chatbot-product-card:nth-child(2) { animation-delay: 0.1s; }
+  .rfen3-chatbot-product-card:nth-child(3) { animation-delay: 0.16s; }
+  .rfen3-chatbot-product-card:nth-child(4) { animation-delay: 0.22s; }
+  .rfen3-chatbot-product-card:nth-child(5) { animation-delay: 0.28s; }
 
-  @keyframes is3rvChatbotCardIn {
+  @keyframes rfen3ChatbotCardIn {
     from {
       opacity: 0;
       transform: translateX(-12px);
@@ -1125,20 +1125,20 @@
     }
   }
 
-  .is3rv-chatbot-product-card:hover {
+  .rfen3-chatbot-product-card:hover {
     border-color: #DE6D26;
     background: rgba(222, 109, 38, 0.06);
     transform: translateX(4px);
     box-shadow: 0 6px 16px rgba(30, 48, 70, 0.1);
   }
 
-  .is3rv-chatbot-product-card:hover .is3rv-chatbot-product-go {
+  .rfen3-chatbot-product-card:hover .rfen3-chatbot-product-go {
     background: #DE6D26;
     color: #FFFFFF;
     transform: translateX(2px);
   }
 
-  .is3rv-chatbot-product-card-main {
+  .rfen3-chatbot-product-card-main {
     display: flex;
     flex-direction: column;
     gap: 3px;
@@ -1146,7 +1146,7 @@
     flex: 1;
   }
 
-  .is3rv-chatbot-product-name {
+  .rfen3-chatbot-product-name {
     font-size: 13px;
     font-weight: 700;
     color: #1E3046;
@@ -1155,7 +1155,7 @@
     text-overflow: ellipsis;
   }
 
-  .is3rv-chatbot-product-cat {
+  .rfen3-chatbot-product-cat {
     font-size: 11px;
     color: rgba(30, 48, 70, 0.62);
     white-space: nowrap;
@@ -1163,13 +1163,13 @@
     text-overflow: ellipsis;
   }
 
-  .is3rv-chatbot-product-size {
+  .rfen3-chatbot-product-size {
     font-size: 11px;
     font-weight: 600;
     color: #DE6D26;
   }
 
-  .is3rv-chatbot-product-go {
+  .rfen3-chatbot-product-go {
     flex-shrink: 0;
     font-size: 11px;
     font-weight: 700;
@@ -1181,7 +1181,7 @@
     transition: background 0.22s ease, color 0.22s ease, transform 0.22s ease;
   }
 
-  .is3rv-chatbot-inline-link {
+  .rfen3-chatbot-inline-link {
     color: #DE6D26;
     font-weight: 600;
     text-decoration: none;
@@ -1190,12 +1190,12 @@
     transition: border-color 0.2s ease, color 0.2s ease;
   }
 
-  .is3rv-chatbot-inline-link:hover {
+  .rfen3-chatbot-inline-link:hover {
     color: #152A3D;
     border-bottom-color: #152A3D;
   }
 
-  .is3rv-chatbot-bubble-user {
+  .rfen3-chatbot-bubble-user {
     align-self: flex-end;
     background: #DE6D26;
     color: #FFFFFF;
@@ -1203,7 +1203,7 @@
     box-shadow: 0 4px 12px rgba(222, 109, 38, 0.28);
   }
 
-  .is3rv-chatbot-bubble-typing {
+  .rfen3-chatbot-bubble-typing {
     align-self: flex-start;
     background: #FFFFFF;
     color: #1E3046;
@@ -1217,34 +1217,34 @@
     white-space: nowrap;
   }
 
-  .is3rv-chatbot-typing-label {
+  .rfen3-chatbot-typing-label {
     font-size: 12px;
     opacity: 0.75;
   }
 
-  .is3rv-chatbot-typing-dots {
+  .rfen3-chatbot-typing-dots {
     display: flex;
     align-items: center;
     gap: 4px;
   }
 
-  .is3rv-chatbot-typing-dots span {
+  .rfen3-chatbot-typing-dots span {
     width: 6px;
     height: 6px;
     border-radius: 50%;
     background: #DE6D26;
-    animation: is3rvChatbotDotBounce 1.1s infinite ease-in-out;
+    animation: rfen3ChatbotDotBounce 1.1s infinite ease-in-out;
   }
 
-  .is3rv-chatbot-typing-dots span:nth-child(2) {
+  .rfen3-chatbot-typing-dots span:nth-child(2) {
     animation-delay: 0.15s;
   }
 
-  .is3rv-chatbot-typing-dots span:nth-child(3) {
+  .rfen3-chatbot-typing-dots span:nth-child(3) {
     animation-delay: 0.3s;
   }
 
-  @keyframes is3rvChatbotDotBounce {
+  @keyframes rfen3ChatbotDotBounce {
     0%, 80%, 100% {
       opacity: 0.35;
       transform: translateY(0);
@@ -1255,7 +1255,7 @@
     }
   }
 
-  .is3rv-chatbot-compose {
+  .rfen3-chatbot-compose {
     display: flex;
     align-items: flex-end;
     gap: 10px;
@@ -1265,7 +1265,7 @@
     flex-shrink: 0;
   }
 
-  .is3rv-chatbot-input {
+  .rfen3-chatbot-input {
     flex: 1;
     min-height: 44px;
     max-height: 110px;
@@ -1282,16 +1282,16 @@
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
   }
 
-  .is3rv-chatbot-input::placeholder {
+  .rfen3-chatbot-input::placeholder {
     color: rgba(30, 48, 70, 0.45);
   }
 
-  .is3rv-chatbot-input:focus {
+  .rfen3-chatbot-input:focus {
     border-color: #DE6D26;
     box-shadow: 0 0 0 3px rgba(222, 109, 38, 0.15);
   }
 
-  .is3rv-chatbot-send {
+  .rfen3-chatbot-send {
     width: 44px;
     height: 44px;
     border: none;
@@ -1307,17 +1307,17 @@
     box-shadow: 0 4px 14px rgba(222, 109, 38, 0.35);
   }
 
-  .is3rv-chatbot-send:hover {
+  .rfen3-chatbot-send:hover {
     transform: translateY(-2px) scale(1.04);
     background: #152A3D;
     box-shadow: 0 6px 18px rgba(222, 109, 38, 0.42);
   }
 
-  .is3rv-chatbot-send:active {
+  .rfen3-chatbot-send:active {
     transform: translateY(0) scale(0.96);
   }
 
-  .is3rv-chatbot-send:disabled {
+  .rfen3-chatbot-send:disabled {
     opacity: 0.5;
     cursor: not-allowed;
     transform: none;
@@ -1325,43 +1325,43 @@
   }
 
   @media (max-width: 768px) {
-    .is3rv-chatbot-wrap {
+    .rfen3-chatbot-wrap {
       bottom: 18px;
       right: 18px;
       left: auto;
     }
 
-    .is3rv-chatbot-fab-inner {
+    .rfen3-chatbot-fab-inner {
       padding: 14px;
     }
 
-    .is3rv-chatbot-fab-label {
+    .rfen3-chatbot-fab-label {
       display: none;
     }
 
-    .is3rv-chatbot-panel {
+    .rfen3-chatbot-panel {
       width: calc(100vw - 36px);
       right: 0;
       bottom: calc(100% + 12px);
       max-height: min(520px, calc(100vh - 88px));
     }
 
-    .is3rv-chatbot-messages {
+    .rfen3-chatbot-messages {
       min-height: 200px;
       max-height: calc(100vh - 280px);
     }
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .is3rv-chatbot-fab-pulse,
-    .is3rv-chatbot-status-dot,
-    .is3rv-chatbot-bubble,
-    .is3rv-chatbot-product-card,
-    .is3rv-chatbot-typing-dots span {
+    .rfen3-chatbot-fab-pulse,
+    .rfen3-chatbot-status-dot,
+    .rfen3-chatbot-bubble,
+    .rfen3-chatbot-product-card,
+    .rfen3-chatbot-typing-dots span {
       animation: none !important;
     }
 
-    .is3rv-chatbot-panel {
+    .rfen3-chatbot-panel {
       transition: none;
     }
   }

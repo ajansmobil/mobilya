@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Bekleme ve Misafir Koltukları",
+    "en": "Waiting & Guest Chairs",
+    "ar": "كراسي الانتظار والضيوف"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c11bekleme",
+  "externalUrl": "",
+  "path": "bekleme-ve-misafir-koltuklari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Bekleme ve Misafir Koltukları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Waiting & Guest Chairs, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, كراسي الانتظار والضيوف, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Bekleme ve Misafir Koltukları. Bekleme alanları ve misafir koltukları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Waiting & Guest Chairs. Waiting areas and guest seating. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — كراسي الانتظار والضيوف. كراسي مناطق الانتظار والضيوف. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 10,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Bekleme ve Misafir Koltukları | En Ofis Mobilyaları",
+    "en": "Waiting & Guest Chairs | En Ofis Mobilyaları",
+    "ar": "كراسي الانتظار والضيوف | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Bekleme ve Misafir Koltukları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Bekleme ve Misafir Koltukları. Bekleme alanları ve misafir koltukları. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Waiting & Guest Chairs</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Waiting & Guest Chairs. Waiting areas and guest seating. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">كراسي الانتظار والضيوف</h2><p style=\"font-size: 16px;\">أن أوفيس — كراسي الانتظار والضيوف. كراسي مناطق الانتظار والضيوف. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.383Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

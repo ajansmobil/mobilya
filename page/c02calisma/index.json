@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Çalışma ve Yönetici Masa Takımları",
+    "en": "Executive & Work Desk Sets",
+    "ar": "مجموعات مكاتب العمل والإدارة"
+  },
+  "status": "play",
+  "category": "",
+  "id": "c02calisma",
+  "externalUrl": "",
+  "path": "calisma-ve-yonetici-masa-takimlari",
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, Çalışma ve Yönetici Masa Takımları, Gaziantep ofis mobilya",
+    "en": "En Ofis Mobilyaları, Executive & Work Desk Sets, Gaziantep office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, مجموعات مكاتب العمل والإدارة, أثاث مكتبي غازي عنتاب"
+  },
+  "description": {
+    "tr": "En Ofis Mobilyaları Çalışma ve Yönetici Masa Takımları. 39 ürün — ofis ve yönetici çalışma masaları. Gaziantep üretim; kamu ve özel sektör tedarik.",
+    "en": "En Ofis Mobilyaları Executive & Work Desk Sets. 39 products — office and executive work desks. Manufactured in Gaziantep; supply for public and private sector.",
+    "ar": "أن أوفيس — مجموعات مكاتب العمل والإدارة. 39 منتج — مكاتب عمل وإدارية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص."
+  },
+  "index": 1,
+  "icon": "category",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "title": {
+    "tr": "Çalışma ve Yönetici Masa Takımları | En Ofis Mobilyaları",
+    "en": "Executive & Work Desk Sets | En Ofis Mobilyaları",
+    "ar": "مجموعات مكاتب العمل والإدارة | أن أوفيس للأثاث المكتبي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Çalışma ve Yönetici Masa Takımları</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Çalışma ve Yönetici Masa Takımları. 39 ürün — ofis ve yönetici çalışma masaları. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Executive & Work Desk Sets</h2><p style=\"font-size: 16px;\">En Ofis Mobilyaları Executive & Work Desk Sets. 39 products — office and executive work desks. Sektörde premium kalite ile hizmet veriyoruz.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">مجموعات مكاتب العمل والإدارة</h2><p style=\"font-size: 16px;\">أن أوفيس — مجموعات مكاتب العمل والإدارة. 39 منتج — مكاتب عمل وإدارية. إنتاج غازي عنتاب؛ توريد للقطاعين العام والخاص.</p>"
+  },
+  "update": "2026-06-02T03:50:52.295Z",
+  "date": "2026-06-02",
+  "categorypage": "products",
+  "slider": [],
+  "img": "index.webp",
+  "bgimg": "hero.webp"
+}

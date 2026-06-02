@@ -1,0 +1,42 @@
+{
+  "name": {
+    "tr": "Yasal Uyarı",
+    "en": "Legal Notice",
+    "ar": "إشعار قانوني"
+  },
+  "status": "play",
+  "id": "yasaluyari",
+  "path": "yasal-uyari",
+  "category": "",
+  "text": {
+    "tr": "<div class=\"mob-kurum-wrap mob-kurum-legal\"><div class=\"mob-kurum-hero mob-kurum-hero-legal\"><span class=\"mob-kurum-hero-label\">Yasal</span><p class=\"mob-kurum-hero-title\">Yasal uyarı ve sorumluluk reddi</p></div><p class=\"mob-kurum-lead\">Bu web sitesinin kullanımına ilişkin yasal uyarı ve sorumluluk reddi metnidir. Siteyi kullanarak aşağıdaki koşulları okumuş sayılırsınız.</p><div class=\"mob-kurum-section\"><h3>İçerik ve sorumluluk</h3><p class=\"mob-kurum-text\">Sitedeki tüm içerik genel bilgilendirme amaçlıdır. En Ofis Mobilyaları, site kullanımından doğabilecek doğrudan veya dolaylı zararlardan, üçüncü taraf bağlantılarından veya geçici erişim kesintilerinden sorumlu tutulamaz.</p></div><div class=\"mob-kurum-section\"><h3>Ürün ve fiyat bilgisi</h3><p class=\"mob-kurum-text\">Ürün görselleri temsilidir; renk ve doku monitör ayarlarına göre farklılık gösterebilir. Fiyat, stok ve teslimat bilgileri önceden haber verilmeksizin güncellenebilir.</p></div><div class=\"mob-kurum-section\"><h3>Sözleşme ve hukuk</h3><p class=\"mob-kurum-text\">Bağlayıcı teklif ve sözleşme koşulları yalnızca yazılı teklif ve imzalı sözleşmelerde geçerlidir. Uyuşmazlıklarda Türkiye Cumhuriyeti kanunları ve Gaziantep mahkemeleri yetkilidir.</p></div><div class=\"mob-kurum-highlight\"><span class=\"mob-kurum-highlight-label\">Önemli</span> Resmi yazışmalar için iletişim sayfamızdaki güncel adres ve telefon bilgilerini kullanın.</div><div class=\"mob-kurum-nav\"><span class=\"mob-kurum-nav-label\">İlgili sayfalar</span><a href=\"/tr/kurumsal/gizlilik-politikasi/\">Gizlilik</a><a href=\"/tr/kurumsal/kisisel-veriler/\">Kişisel Veriler</a><a href=\"/tr/kurumsal/kullanici-haklari/\">Kullanıcı Hakları</a><a href=\"/tr/kurumsal/yasal-uyari/\">Yasal Uyarı</a></div></div>",
+    "en": "<div class=\"mob-kurum-wrap mob-kurum-legal\"><div class=\"mob-kurum-hero mob-kurum-hero-legal\"><span class=\"mob-kurum-hero-label\">Legal</span><p class=\"mob-kurum-hero-title\">Legal notice and disclaimer</p></div><p class=\"mob-kurum-lead\">This is the legal notice and disclaimer regarding use of this website. By using the site you are deemed to have read the following terms.</p><p class=\"mob-kurum-text\">All content is for general information. En Ofis Mobilyaları is not liable for direct or indirect damages from use of the site, third-party links or temporary outages. Product images are representative; colours may vary by display settings.</p><p class=\"mob-kurum-text\">Prices, stock and delivery may be updated without notice. Binding terms are only in written quotes and signed contracts. Turkish law and Gaziantep courts apply to disputes.</p><div class=\"mob-kurum-highlight\"><span class=\"mob-kurum-highlight-label\">Important</span> Use current address and phone details on our contact page for official correspondence.</div><div class=\"mob-kurum-nav\"><span class=\"mob-kurum-nav-label\">Related pages</span><a href=\"/en/kurumsal/gizlilik-politikasi/\">Privacy</a><a href=\"/en/kurumsal/kisisel-veriler/\">Personal Data</a><a href=\"/en/kurumsal/kullanici-haklari/\">User Rights</a><a href=\"/en/kurumsal/yasal-uyari/\">Legal Notice</a></div></div>",
+    "ar": "<div class=\"mob-kurum-wrap mob-kurum-legal\"><div class=\"mob-kurum-hero mob-kurum-hero-legal\"><span class=\"mob-kurum-hero-label\">قانوني</span><p class=\"mob-kurum-hero-title\">إشعار قانوني وإخلاء مسؤولية</p></div><p class=\"mob-kurum-lead\">هذا الإشعار القانوني وإخلاء المسؤولية بشأن استخدام هذا الموقع. باستخدام الموقع يُعتبر أنك قرأت الشروط التالية.</p><p class=\"mob-kurum-text\">جميع المحتويات للمعلومات العامة. أن أوفيس غير مسؤولة عن الأضرار المباشرة أو غير المباشرة من استخدام الموقع أو روابط طرف ثالث أو انقطاع مؤقت. صور المنتجات تمثيلية؛ قد تختلف الألوان حسب الشاشة.</p><p class=\"mob-kurum-text\">قد تُحدّث الأسعار والمخزون والتسليم دون إشعار. الشروط الملزمة فقط في العروض المكتوبة والعقود الموقعة. يسري القانون التركي ومحاكم غازي عنتاب.</p><div class=\"mob-kurum-highlight\"><span class=\"mob-kurum-highlight-label\">مهم</span> استخدم العنوان والهاتف الحاليين في صفحة الاتصال للمراسلات الرسمية.</div><div class=\"mob-kurum-nav\"><span class=\"mob-kurum-nav-label\">صفحات ذات صلة</span><a href=\"/ar/kurumsal/gizlilik-politikasi/\">الخصوصية</a><a href=\"/ar/kurumsal/kisisel-veriler/\">البيانات الشخصية</a><a href=\"/ar/kurumsal/kullanici-haklari/\">حقوق المستخدم</a><a href=\"/ar/kurumsal/yasal-uyari/\">إشعار قانوني</a></div></div>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 7,
+  "icon": "balance",
+  "title": {
+    "tr": "Yasal Uyarı",
+    "en": "Legal Notice",
+    "ar": "إشعار قانوني"
+  },
+  "description": {
+    "tr": "Yasal uyarı: site kullanımı, ürün görselleri, fiyat bilgisi ve geçerli Türk hukuku.",
+    "en": "Legal notice: site use, product images, pricing and applicable Turkish law.",
+    "ar": "إشعار قانوني: استخدام الموقع والصور والقانون التركي."
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, yasal uyarı",
+    "en": "En Ofis Mobilyaları, legal notice",
+    "ar": "أن أوفيس للأثاث المكتبي, إشعار قانوني"
+  },
+  "update": "2026-06-02T03:50:52.274Z",
+  "date": "2026-05-19",
+  "bgimg": "hero.webp"
+}

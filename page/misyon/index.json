@@ -1,0 +1,42 @@
+{
+  "name": {
+    "tr": "Misyonumuz",
+    "en": "Our Mission",
+    "ar": "مهمتنا"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyonumuz",
+  "category": "",
+  "text": {
+    "tr": "<div class=\"mob-kurum-wrap\"><div class=\"mob-kurum-hero\"><span class=\"mob-kurum-hero-label\">Misyon</span><p class=\"mob-kurum-hero-title\">Çalışma alanlarına kalıcı değer katmak</p></div><p class=\"mob-kurum-lead\">Misyonumuz; modern, estetik ve fonksiyonel ofis mobilyaları ile müşterilerimizin çalışma alanlarına kalıcı değer katmaktır. Üretimden montaja kadar her adımda şeffaflık, kalite ve zamanında teslimat ilkeleriyle hareket ederiz.</p><div class=\"mob-kurum-grid\"><div class=\"mob-kurum-card\"><strong>Kalite</strong><span>Hammadde girişinden sevkiyata kadar denetimli süreçler; ölçü ve işçilik standartlarına bağlı üretim.</span></div><div class=\"mob-kurum-card\"><strong>Güven</strong><span>Kamu ve özel sektörde söz verilen tarihte teslimat; sözleşme ve proje takvimine uyum.</span></div><div class=\"mob-kurum-card\"><strong>Ustalık</strong><span>Çelik ve ahşap işçiliğinde deneyimli kadro; uzun ömürlü ve dayanıklı ürünler.</span></div><div class=\"mob-kurum-card\"><strong>İş birliği</strong><span>Mimari ofis, müteahhit ve satın alma ekipleriyle koordineli proje yönetimi.</span></div></div><p class=\"mob-kurum-quote\">Müşteri memnuniyeti operasyonlarımızın temel ölçütüdür; her geri bildirim ürün ve süreç geliştirmemize yansır.</p><p class=\"mob-kurum-text\">Okul ve yurt projelerinden makam odalarına, hastane ve kurumsal ofislere kadar her ölçekte güvenilir tedarikçi olmayı hedefliyoruz. Sürdürülebilir üretim disipliniyle gereksiz fireyi azaltır, kaynakları verimli kullanırız.</p><p class=\"mob-kurum-text\">Ekonomik çözümler sunarken görsel bütünlük ve ergonomiden ödün vermeyiz; çalışan verimliliğini destekleyen ergonomik koltuk ve masa sistemleri tasarlarız.</p><div class=\"mob-kurum-highlight\"><span class=\"mob-kurum-highlight-label\">Taahhüdümüz</span> Her projede aynı kalite standardı — tek seferlik değil, uzun vadeli iş ortaklığı.</div><div class=\"mob-kurum-cta\"><p class=\"mob-kurum-cta-text\">Misyonumuzu projelerinizde birlikte hayata geçirelim.</p><a class=\"mob-kurum-cta-link\" href=\"/tr/iletisim/\">Teklif alın</a></div></div>",
+    "en": "<div class=\"mob-kurum-wrap\"><div class=\"mob-kurum-hero\"><span class=\"mob-kurum-hero-label\">Mission</span><p class=\"mob-kurum-hero-title\">Adding lasting value to workspaces</p></div><p class=\"mob-kurum-lead\">Our mission is to add lasting value to our customers' workspaces with modern, aesthetic and functional office furniture. We operate with transparency, quality and on-time delivery from production to installation.</p><div class=\"mob-kurum-grid\"><div class=\"mob-kurum-card\"><strong>Quality</strong><span>Controlled processes from raw materials to dispatch; production aligned with dimensional and workmanship standards.</span></div><div class=\"mob-kurum-card\"><strong>Trust</strong><span>On-time delivery in public and private sector; adherence to contract and project schedules.</span></div><div class=\"mob-kurum-card\"><strong>Craftsmanship</strong><span>Experienced team in steel and wood work; durable, long-lasting products.</span></div><div class=\"mob-kurum-card\"><strong>Partnership</strong><span>Coordinated project management with architects, contractors and procurement teams.</span></div></div><p class=\"mob-kurum-text\">From school and dormitory projects to executive offices and hospitals — we aim to be a reliable supplier at every scale. Customer satisfaction is the core measure of our operations.</p><p class=\"mob-kurum-text\">We reduce waste through sustainable production discipline and use resources efficiently without compromising ergonomics or visual coherence.</p><div class=\"mob-kurum-highlight\"><span class=\"mob-kurum-highlight-label\">Our pledge</span> The same quality standard on every project — long-term partnership, not a one-off order.</div><div class=\"mob-kurum-cta\"><p class=\"mob-kurum-cta-text\">Let's bring our mission to life in your projects.</p><a class=\"mob-kurum-cta-link\" href=\"/en/contact/\">Get a quote</a></div></div>",
+    "ar": "<div class=\"mob-kurum-wrap\"><div class=\"mob-kurum-hero\"><span class=\"mob-kurum-hero-label\">المهمة</span><p class=\"mob-kurum-hero-title\">إضافة قيمة دائمة لمساحات العمل</p></div><p class=\"mob-kurum-lead\">مهمتنا إضافة قيمة دائمة لمساحات عمل عملائنا بأثاث مكتبي حديث وجمالي وعملي. نعمل بشفافية وجودة وتسليم في الوقت المحدد من الإنتاج إلى التركيب.</p><div class=\"mob-kurum-grid\"><div class=\"mob-kurum-card\"><strong>الجودة</strong><span>عمليات خاضعة للرقابة من المواد الخام إلى الشحن؛ إنتاج وفق معايير الأبعاد والحرفية.</span></div><div class=\"mob-kurum-card\"><strong>الثقة</strong><span>تسليم في الوقت المحدد في القطاعين العام والخاص؛ الالتزام بجداول العقود والمشاريع.</span></div><div class=\"mob-kurum-card\"><strong>الحرفية</strong><span>فريق ذو خبرة في الصلب والخشب؛ منتجات متينة وطويلة الأمد.</span></div><div class=\"mob-kurum-card\"><strong>الشراكة</strong><span>إدارة مشروع منسقة مع المكاتب المعمارية والمقاولين وفرق المشتريات.</span></div></div><p class=\"mob-kurum-text\">من مشاريع المدارس والسكن إلى المكاتب التنفيذية والمستشفيات — نهدف إلى أن نكون مورداً موثوقاً على كل المستويات. رضا العملاء هو المقياس الأساسي لعملياتنا.</p><p class=\"mob-kurum-text\">نقلل الهدر بانضباط إنتاج مستدام ونستخدم الموارد بكفاءة دون التنازل عن الإرغونوميا والتماسك البصري.</p><div class=\"mob-kurum-highlight\"><span class=\"mob-kurum-highlight-label\">تعهدنا</span> نفس معيار الجودة في كل مشروع — شراكة طويلة الأمد وليس طلباً واحداً.</div><div class=\"mob-kurum-cta\"><p class=\"mob-kurum-cta-text\">لنُحقق مهمتنا معاً في مشاريعكم.</p><a class=\"mob-kurum-cta-link\" href=\"/ar/contact/\">اطلب عرضاً</a></div></div>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 1,
+  "icon": "flag",
+  "title": {
+    "tr": "Misyonumuz | En Ofis Mobilyaları",
+    "en": "Our Mission | En Ofis Mobilyaları",
+    "ar": "مهمتنا | أن أوفيس للأثاث المكتبي"
+  },
+  "description": {
+    "tr": "Misyonumuz: modern ofis mobilyaları ile çalışma alanlarına değer; kalite, güven, ustalık ve iş birliği ilkeleri.",
+    "en": "Our mission: lasting value through modern office furniture; quality, trust, craftsmanship and partnership.",
+    "ar": "مهمتنا: قيمة دائمة بأثاث مكتبي حديث؛ جودة وثقة وحرفية وشراكة."
+  },
+  "keyword": {
+    "tr": "En Ofis Mobilyaları, misyon, ofis mobilyası",
+    "en": "En Ofis Mobilyaları, mission, office furniture",
+    "ar": "أن أوفيس للأثاث المكتبي, المهمة, أثاث مكتبي غازي عنتاب"
+  },
+  "update": "2026-06-02T03:50:52.208Z",
+  "date": "2026-06-02",
+  "bgimg": "hero.webp"
+}
