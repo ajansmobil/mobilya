@@ -11,7 +11,26 @@
         "bgcolor": "#1e3046",
         "color": "#ffffff",
         "activebgcolor": "#DE6D26",
-        "activecolor": "#ffffff"
+        "activecolor": "#ffffff",
+        "height": "100px",
+        "ariaToggle": {
+          "tr": "Menüyü aç/kapat",
+          "en": "Toggle menu",
+          "ar": "تبديل القائمة"
+        },
+        "ariaClose": {
+          "tr": "Menüyü kapat",
+          "en": "Close menu"
+        },
+        "logobg": "transparent",
+        "logoborder": "none",
+        "logoradius": "0",
+        "logopad": "0",
+        "logopadmobil": "0",
+        "logomaxh": "100px",
+        "logoimg": "",
+        "langcolor": "currentColor",
+        "langbg": "transparent"
       },
       "version": "1.0.0",
       "icon": "menu"
@@ -35,7 +54,18 @@
         "btncolor": "#ffffff",
         "btnbg": "#DE6D26",
         "border_radius": "10px",
-        "layout": ""
+        "layout": "",
+        "bgcolor": "#111111",
+        "prevLabel": {
+          "tr": "Önceki slayt",
+          "en": "Previous slide",
+          "ar": "الشريحة السابقة"
+        },
+        "nextLabel": {
+          "tr": "Sonraki slayt",
+          "en": "Next slide",
+          "ar": "الشريحة التالية"
+        }
       },
       "version": "1.0.0",
       "icon": "view_carousel",
@@ -115,7 +145,9 @@
           "en": "Contact Us",
           "ar": "تواصل معنا"
         },
-        "margin": "48px auto 32px auto"
+        "margin": "48px auto 32px auto",
+        "stil": "",
+        "linkcolor": "#1B3A6B"
       },
       "data": [
         {
@@ -152,10 +184,29 @@
       "desing": {
         "height": "320",
         "opacity": "0.42",
-        "backgroundcolor": "#fff",
+        "backgroundcolor": "#ffffff",
         "color": "#fff",
         "img": "map.jpg",
-        "externalUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BCy%C3%BCkp%C4%B1nar+Mah.+Adana+Yolu+Blv.+No+139+%C5%9Eehitkamil+Gaziantep"
+        "externalUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%BCy%C3%BCkp%C4%B1nar+Mah.+Adana+Yolu+Blv.+No+139+%C5%9Eehitkamil+Gaziantep",
+        "stil": "",
+        "address": "",
+        "phone": "",
+        "email": "",
+        "badgeText": {
+          "tr": "Konumumuz",
+          "en": "Our Location",
+          "ar": "موقعنا"
+        },
+        "infoTitle": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "اتصل بنا"
+        },
+        "directions": {
+          "tr": "Yol tarifi al",
+          "en": "Get directions",
+          "ar": "احصل على الاتجاهات"
+        }
       },
       "version": "1.0.0",
       "icon": "map"
@@ -181,7 +232,51 @@
         "border_radius": "12px",
         "card_shadow": "0 10px 32px rgba(30, 48, 70, 0.12)",
         "contact_path": "iletisim",
-        "whatsapp": "905305164293"
+        "whatsapp": "905305164293",
+        "stil": "",
+        "activetext": "#fff",
+        "ui": {
+          "tr": {
+            "home": "Anasayfa",
+            "products": "Ürünler",
+            "dimensions": "Ölçüler",
+            "dimNote": "Standart üretim referansıdır; proje bazında özelleştirilebilir.",
+            "quote": "Teklif Al",
+            "whatsapp": "WhatsApp",
+            "prev": "Önceki",
+            "next": "Sonraki"
+          },
+          "en": {
+            "home": "Home",
+            "products": "Products",
+            "dimensions": "Dimensions",
+            "dimNote": "Standard production reference; customizable per project.",
+            "quote": "Get Quote",
+            "whatsapp": "WhatsApp",
+            "prev": "Previous",
+            "next": "Next"
+          },
+          "ar": {
+            "home": "الرئيسية",
+            "products": "المنتجات",
+            "dimensions": "الأبعاد",
+            "dimNote": "مرجع إنتاج قياسي؛ قابل للتخصيص حسب المشروع.",
+            "quote": "عرض سعر",
+            "whatsapp": "واتساب",
+            "prev": "السابق",
+            "next": "التالي"
+          }
+        },
+        "noTitle": {
+          "tr": "Başlık Yok",
+          "en": "No title",
+          "ar": "بدون عنوان"
+        },
+        "productNavAria": {
+          "tr": "Ürün navigasyonu",
+          "en": "Product navigation",
+          "ar": "تنقل المنتج"
+        }
       },
       "version": "1.0.0",
       "icon": "web"
@@ -196,7 +291,12 @@
         "bgcolor": "#152a3d",
         "color": "#ffffff",
         "img": "",
-        "imgwidth": "220px"
+        "imgwidth": "220px",
+        "stil": "",
+        "showlang": true,
+        "showsocial": true,
+        "social": [],
+        "langcolor": ""
       },
       "data": [],
       "version": "1.0.0",
@@ -259,7 +359,19 @@
         "color": "#4a5c6d",
         "colortitle": "#1e3046",
         "category": "category",
-        "coloractive": "#DE6D26"
+        "coloractive": "#DE6D26",
+        "border_radius": "12px",
+        "card_shadow": "0 4px 20px rgba(0, 0, 0, 0.1)",
+        "max": "1200px",
+        "olcuTitle": {
+          "tr": "Ölçüler",
+          "en": "Dimensions"
+        },
+        "olcuNote": {
+          "tr": "Standart üretim referans ölçüsüdür; proje bazında özelleştirilebilir.",
+          "en": "Standard production reference; customizable per project."
+        },
+        "activetext": "#ffffff"
       },
       "category": "page",
       "version": "1.0.0",
@@ -331,7 +443,8 @@
           "tr": "2012|Kuruluş|20000|m² Üretim|13|Ürün Grubu|250+|Model",
           "en": "2012|Founded|20000|m² Production|13|Product Groups|250+|Models",
           "ar": "2012|التأسيس|20000|م² إنتاج|13|مجموعة منتجات|250+|طراز"
-        }
+        },
+        "stil": ""
       },
       "version": "1.0.0",
       "icon": "hero"
@@ -399,6 +512,57 @@
           "tr": "İncele",
           "en": "View",
           "ar": "عرض"
+        },
+        "allow_close": true,
+        "close_label": {
+          "tr": "Kapat",
+          "en": "Close",
+          "ar": "إغلاق"
+        },
+        "proxy_url_missing": {
+          "tr": " (proxyUrl ayarlanmadi)",
+          "en": " (proxyUrl not configured)",
+          "ar": " (proxyUrl غير مضبوط)"
+        },
+        "product_list_rules": {
+          "tr": "\n\n--- URUN LISTESI CIKTISI (ZORUNLU) ---\nBirden fazla urun onerirken duz yazi listesi YAZMA. Her urun icin asagidaki blogu kullan:\n[[PRODUCTS]]\nUrunAdi|url-slug|olcu|kategori\n[[/PRODUCTS]]\nOrnek:\n[[PRODUCTS]]\nFP501|fp501|2800×216 mm|3D panel\n[[/PRODUCTS]]\nurl-slug yalnizca path (fp501, fp502 vb.). Tek urun icin de ayni blok tek satirla.\nBloktan once 1-2 cumle aciklama, sonra blok. Blok icinde markdown veya numara kullanma.\nKatalog blogundaki urunleri kullan; uydurma.\nKategori sayfasi icin: [[PRODUCTS]]\\nKategori Adi|kategori-slug||\\n[[/PRODUCTS]] (olcu bos birakilabilir).\n",
+          "en": "\n\n--- PRODUCT LIST OUTPUT (REQUIRED) ---\nDo not use plain text lists for multiple products. Use this block per product:\n[[PRODUCTS]]\nProductName|url-slug|size|category\n[[/PRODUCTS]]\nExample:\n[[PRODUCTS]]\nFP501|fp501|2800×216 mm|3D panel\n[[/PRODUCTS]]\nurl-slug is path only (fp501, fp502 etc.). Single product: same block one line.\n1-2 sentences before block, then block. No markdown or numbering inside block.\nUse products from the catalog block; do not invent.\nCategory page: [[PRODUCTS]]\\nCategory Name|category-slug||\\n[[/PRODUCTS]] (size may be empty).\n",
+          "ar": "\n\n--- مخرجات قائمة المنتجات (إلزامي) ---\nلا تستخدم قائمة نصية عادية. استخدم الكتلة التالية:\n[[PRODUCTS]]\nاسم|slug|الحجم|الفئة\n[[/PRODUCTS]]\nمثال:\n[[PRODUCTS]]\nFP501|fp501|2800×216 mm|3D panel\n[[/PRODUCTS]]\n"
+        },
+        "site_info_header": {
+          "tr": "\n\n--- SITE BILGI BANKASI (sys.text) ---\n",
+          "en": "\n\n--- SITE KNOWLEDGE BASE (sys.text) ---\n",
+          "ar": "\n\n--- قاعدة معلومات الموقع (sys.text) ---\n"
+        },
+        "catalog_header": {
+          "tr": "\n\n--- KATALOG ---\nAsagidaki urunleri kullan; katalogda olmayan urun uydurma.\n",
+          "en": "\n\n--- CATALOG ---\nUse the products below; do not invent items missing from this list.\n",
+          "ar": "\n\n--- الكتالوج ---\nاستخدم المنتجات أدناه؛ لا تخترع عناصر غير موجودة.\n"
+        },
+        "contact_phone": {
+          "tr": "Telefon",
+          "en": "Phone",
+          "ar": "هاتف"
+        },
+        "contact_whatsapp": {
+          "tr": "WhatsApp",
+          "en": "WhatsApp",
+          "ar": "واتساب"
+        },
+        "contact_email": {
+          "tr": "E-posta",
+          "en": "Email",
+          "ar": "البريد"
+        },
+        "contact_address": {
+          "tr": "Adres",
+          "en": "Address",
+          "ar": "العنوان"
+        },
+        "contact_rules": {
+          "tr": "\n\n--- ILETISIM CIKTISI ---\nIletisim istendiginde duz yazi yerine su blogu kullan:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nBos satir yazma. Telefon tel:, WhatsApp wa.me, e-posta mailto.\n",
+          "en": "\n\n--- CONTACT OUTPUT ---\nWhen giving contact details use this block, not plain text:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\nSkip empty lines. Phone tel:, WhatsApp wa.me, email mailto.\n",
+          "ar": "\n\n--- مخرجات الاتصال ---\nعند إعطاء معلومات الاتصال استخدم الكتلة:\n[[CONTACT]]\nphone|+90...\nwhatsapp|+90...\nemail|...\naddress|...\n[[/CONTACT]]\n"
         }
       },
       "category": "contact",
@@ -407,6 +571,29 @@
       "icon": "smart_toy",
       "id": "39i5yg",
       "local": "footer"
+    },
+    {
+      "name": "Page Desing 2",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "textcolor": "#fff",
+        "category": "page"
+      },
+      "category": "page",
+      "description": "Page Desing 2 modülü. 2 farklı web projesinde kullanılmaktadır. İçerik sunumu ve görsel düzenleme için tasarlanmıştır.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "7r9539",
+      "path": "page-text",
+      "local": "body",
+      "data": [],
+      "index": 11
     }
   ]
 }
