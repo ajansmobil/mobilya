@@ -38,17 +38,17 @@
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/rubik.css?v=lj8tg" />
-  <link rel="stylesheet" href="/src/css.css?v=lj8tg" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=lj8tg" />
+  <link rel="stylesheet" href="/src/rubik.css?v=pn6t1" />
+  <link rel="stylesheet" href="/src/css.css?v=pn6t1" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=pn6t1" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=lj8tg" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=pn6t1" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=lj8tg" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=pn6t1" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=lj8tg" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=lj8tg" />
-  <link rel="shortcut icon" href="/img/icon.png?v=lj8tg" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=pn6t1" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=pn6t1" />
+  <link rel="shortcut icon" href="/img/icon.png?v=pn6t1" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -121,7 +121,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=lj8tg">
+<link rel="stylesheet" href="style.css?v=pn6t1">
 </head>
 
 <body>
@@ -156,7 +156,7 @@
   <div class="h0000body">
     <a href="/tr/">
       <img
-        src="/img/logo.png?v=wz571"
+        src="/img/logo.png?v=d93cd"
         alt="En Ofis Mobilyaları Logo"
         class="h0000bodylogo"
         loading="lazy"
@@ -615,9 +615,11 @@
         function(entries) {
           entries.forEach(function(entry, index) {
             if (entry.isIntersecting) {
+
               if (window.innerWidth <= 1024) {
                 entry.target.classList.add("visible");
               } else {
+
                 setTimeout(function() {
                   entry.target.classList.add("visible");
                 }, index * 300); // Her element 300ms gecikmeli gelecek
@@ -631,6 +633,7 @@
           rootMargin: "0px 0px -10px 0px",
         },
       );
+
       var items = Array.from(document.querySelectorAll(".b0000bodyitems"));
       items
         .sort(function(a, b) {
@@ -1721,10 +1724,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=lj8tg"></script>
-  <script defer src="/src/mx-store.js?v=lj8tg"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=lj8tg"></script>
-  <script defer src="/src/cookie.js?v=lj8tg"></script>
+  <script defer src="/src/mx-ui.js?v=pn6t1"></script>
+  <script defer src="/src/mx-store.js?v=pn6t1"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=pn6t1"></script>
+  <script defer src="/src/cookie.js?v=pn6t1"></script>
 
 </body>
 
